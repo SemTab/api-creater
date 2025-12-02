@@ -1,0 +1,3167 @@
+[
+    {
+        "file": "Adjustable.cfg",
+        "hash": "a45260f718e4716b4647f75b49956d868e79625a541cd2df8d9e049fe3b2db9a",
+        "size": 1250
+    },
+    {
+        "file": "GTASAMP10.b",
+        "hash": "0ee7c86182f190e564b9daa8d215fbf8921bfdb0798edff28c8c1cf5325bbf46",
+        "size": 130000
+    },
+    {
+        "file": "gtasatelem.set",
+        "hash": "f3158c68d0e7fb391030963c1951f75a6856ec5e5ed897289768da1858b80846",
+        "size": 392
+    },
+    {
+        "file": "gta_sa.set",
+        "hash": "11675aec1cf82e63f061a2dc9b50b4aee2ac905908d5b919d5eb913d9cd307ea",
+        "size": 159
+    },
+    {
+        "file": "scache_small.txt",
+        "hash": "0d5ed61fbb05c745b83925b5f9f1693e892c1b521a2920a968152f63bef032de",
+        "size": 1010
+    },
+    {
+        "file": "scache_small_low.txt",
+        "hash": "c1b61662bfb677ceebfd4edeae92c8c69d7c87bea727a647c8152c9a70597e93",
+        "size": 943
+    },
+    {
+        "file": "stream.ini",
+        "hash": "e5b4ac3e7797a271660a091bdc0e4663beedcab43acaee2473086ca8f925a148",
+        "size": 197
+    },
+    {
+        "file": "version.txt",
+        "hash": "03e1f4b85d46632cf85db71cb081aeaa635eb95c58d1d82dba6b5d37baf61ddf",
+        "size": 234
+    },
+    {
+        "file": "anim/anim.img",
+        "hash": "bdde1f918fb12e4b4b9e46927f8a0281b6d80b85551b716e74cca68c6c9138ae",
+        "size": 10942464
+    },
+    {
+        "file": "anim/cuts.img",
+        "hash": "28d9b9002ac5479106c06ce0fc390120f24e0ac2a2395517badbcbd0adf502cb",
+        "size": 270096384
+    },
+    {
+        "file": "anim/ped.ifp",
+        "hash": "f7483f49080a0f833dc73ef09aa2224f99a9e90757fa5c2b7db5505cbef33eac",
+        "size": 1433248
+    },
+    {
+        "file": "audio/CONFIG/AudioEventHistory.txt",
+        "hash": "bdc80c1cb520ae10c7952af4d402e0a3802901eb724f44e9de6007fc8b810dc0",
+        "size": 114056
+    },
+    {
+        "file": "audio/CONFIG/BankLkup.dat",
+        "hash": "82bd66b91c14c455ef9fb1fbf3bf9448ac89234403262e312bf40d13e1fd1ff9",
+        "size": 3828
+    },
+    {
+        "file": "audio/CONFIG/BankSlot.dat",
+        "hash": "aa7035f9c914cd3b73f9535b2794a10febeebfbcdb166d340d875093eab71e72",
+        "size": 216902
+    },
+    {
+        "file": "audio/CONFIG/BanksNum.dat",
+        "hash": "b066f6d2fa47bc144a5c0b95c9704ced7d2f3257ce3ee0980a6be910269b00be",
+        "size": 16
+    },
+    {
+        "file": "audio/CONFIG/enginesfx.dat",
+        "hash": "c43f575f2930efaf25c041e3c1ef285af73651356c3e38c38972cd7b3ad0b3e5",
+        "size": 1994
+    },
+    {
+        "file": "audio/CONFIG/EventVol.dat",
+        "hash": "ad8bab3deff68a93787566dab34b33d37876ba9e15308386e2166837024059a8",
+        "size": 45402
+    },
+    {
+        "file": "audio/CONFIG/exhausts.dat",
+        "hash": "987cf427a188e4c618fc8d6a712f7f705e90bbce661e6fad78cb571578611163",
+        "size": 357
+    },
+    {
+        "file": "audio/CONFIG/PakFiles.dat",
+        "hash": "7b5163453d72a43e54ae02df9fc321e792f045f7c17172244c91b28cc1220e6e",
+        "size": 208
+    },
+    {
+        "file": "audio/CONFIG/SOUNDINF.DAT",
+        "hash": "f86583eb5a4d8d1080548faf82a698f2f7a46dddc0e140ea6a7649d72a7c443b",
+        "size": 20012
+    },
+    {
+        "file": "audio/CONFIG/StrmPaks.dat",
+        "hash": "03e32ee0efb3505d0cea13952370d24a417799b085946087c851060d4120dea0",
+        "size": 272
+    },
+    {
+        "file": "audio/CONFIG/TrakLkup.dat",
+        "hash": "adf22fcdfe798c7ad59f1b8fbf6a71574fbf06f1ca39a074ad2b3163c341c0d9",
+        "size": 23064
+    },
+    {
+        "file": "audio/CONFIG/TRKHEAD.DAT",
+        "hash": "6474abc1c02ed8647caca1c107e0d067cce2715021f9420c009c0f763ad1c0e4",
+        "size": 15506696
+    },
+    {
+        "file": "audio/SFX/FEET.osw",
+        "hash": "d43473f63e8379f65be9eb9f43ca3218bfd7cc1769041f0a417b25da3f332336",
+        "size": 138118
+    },
+    {
+        "file": "audio/SFX/FEET.osw.idx",
+        "hash": "13debe852688a01ff4e2f789f939747922e19ae59c59287b4f601095669e20d6",
+        "size": 1220
+    },
+    {
+        "file": "audio/SFX/GENRL.osw",
+        "hash": "69de38a756a00042105384de1de8804caa186c4d3173e1fefdc694981c4f1fb4",
+        "size": 12159361
+    },
+    {
+        "file": "audio/SFX/GENRL.osw.idx",
+        "hash": "b76cceef9c977c47448529fb18261cd13f4b9ce96341c7fd1c6ad4a14622e0eb",
+        "size": 22148
+    },
+    {
+        "file": "audio/SFX/PAIN_A.osw",
+        "hash": "b6e917e21c007e394b76b0d1f7121b5f1c6f397073de3554b8b56599104816e1",
+        "size": 3247335
+    },
+    {
+        "file": "audio/SFX/PAIN_A.osw.idx",
+        "hash": "6f64edb08e2a7e0895a70a2467d6e848e2cffcb189adaf2d74a014189060ea43",
+        "size": 12836
+    },
+    {
+        "file": "audio/SFX/VEHICLE.osw",
+        "hash": "2fb838ef540a56e1bebea52b1bbdb8c3cc2757a5aa898b18020dd3008673b28c",
+        "size": 58638957
+    },
+    {
+        "file": "audio/SFX/VEHICLE.osw.idx",
+        "hash": "03d05872d38f440210460709a25aabb6ced840dafd809c97cd6e4b27c0885a3d",
+        "size": 13764
+    },
+    {
+        "file": "audio/STREAMS/AA.osw",
+        "hash": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        "size": 15462
+    },
+    {
+        "file": "audio/STREAMS/AA.osw.idx",
+        "hash": "0971a591a39cc7aa2ee6071e1a87b3571e708fc0446ec083068a075c9f396466",
+        "size": 1522
+    },
+    {
+        "file": "audio/STREAMS/ADVERTS.osw",
+        "hash": "ca963094f2b6d8600e3a7ad5c1cb82794c739615f9dfd0e1518966406a5d8aab",
+        "size": 3516982
+    },
+    {
+        "file": "audio/STREAMS/ADVERTS.osw.idx",
+        "hash": "d2cdf4c804cef5f74f9548b8bb2cf5cd72a7b86665d8b2e493882e50bb3cb998",
+        "size": 1591
+    },
+    {
+        "file": "audio/STREAMS/AMBIENCE.osw",
+        "hash": "fbe8d0c10cf5af252496e2a5729efae6e0afe37004d5905d872cf6dcc83fe272",
+        "size": 22719112
+    },
+    {
+        "file": "audio/STREAMS/AMBIENCE.osw.idx",
+        "hash": "d763e98e94b87349f748e02943a02eff06b8daac448b5da6f09b0f09db9c4e83",
+        "size": 924
+    },
+    {
+        "file": "audio/STREAMS/BEATS.osw",
+        "hash": "fcc146dddf929869ae0d40bdb21d8b5463689a6f8b9c432dd028d907c9f432b2",
+        "size": 9415375
+    },
+    {
+        "file": "audio/STREAMS/BEATS.osw.idx",
+        "hash": "1d3e87031cbaf9c1d7be0a33265d548ec39d4a3e8840ed8c6bdeea4e3b734c09",
+        "size": 234
+    },
+    {
+        "file": "audio/STREAMS/CH.osw",
+        "hash": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        "size": 15462
+    },
+    {
+        "file": "audio/STREAMS/CH.osw.idx",
+        "hash": "9dcf1445dcd6145aeab790d5eeff737b7f085dde07e42091d6bf523b197e123c",
+        "size": 2994
+    },
+    {
+        "file": "audio/STREAMS/CO.osw",
+        "hash": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        "size": 15462
+    },
+    {
+        "file": "audio/STREAMS/CO.osw.idx",
+        "hash": "c057f5a0eb6df6dec863e25561995cfb69afd1dfddd92c608f720254ca60a4c8",
+        "size": 3569
+    },
+    {
+        "file": "audio/STREAMS/CR.osw",
+        "hash": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        "size": 15462
+    },
+    {
+        "file": "audio/STREAMS/CR.osw.idx",
+        "hash": "b6a7ef38f6aee88eb60c2d0500be46f7e8cac38b72c738071404640854f98485",
+        "size": 3592
+    },
+    {
+        "file": "audio/STREAMS/CUTSCENE.osw",
+        "hash": "0fcbd6cb6aea4f51eddb8b9213ccd5cc9445422d4d4eeedb9c457b2bdc1d13a1",
+        "size": 301175
+    },
+    {
+        "file": "audio/STREAMS/CUTSCENE.osw.idx",
+        "hash": "e7baeb71062f2e1c90e1f7c010d5106b616e59efb876b7524a31f6ca740b75ca",
+        "size": 3247
+    },
+    {
+        "file": "audio/STREAMS/DS.osw",
+        "hash": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        "size": 15462
+    },
+    {
+        "file": "audio/STREAMS/DS.osw.idx",
+        "hash": "abe5af8acca600fc6ec041e35ccd1a3735ddaf78906667dab39a5542d12dee41",
+        "size": 4121
+    },
+    {
+        "file": "audio/STREAMS/HC.osw",
+        "hash": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        "size": 15462
+    },
+    {
+        "file": "audio/STREAMS/HC.osw.idx",
+        "hash": "baf0fc96a4818b1499969853fb144c7a4ef2f1dfe171a7bd2559dffc2c7c15a9",
+        "size": 2649
+    },
+    {
+        "file": "audio/STREAMS/MH.osw",
+        "hash": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        "size": 15462
+    },
+    {
+        "file": "audio/STREAMS/MH.osw.idx",
+        "hash": "6796adf0a3d204e85951924ba5792297acf8f67f2ce03cb66d3303b230b0d3ad",
+        "size": 3500
+    },
+    {
+        "file": "audio/STREAMS/MR.osw",
+        "hash": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        "size": 15462
+    },
+    {
+        "file": "audio/STREAMS/MR.osw.idx",
+        "hash": "7c789c2faaf83ec6ae0fb281955926103a085cba02c349291e36d8dc1d6fe046",
+        "size": 3385
+    },
+    {
+        "file": "audio/STREAMS/NJ.osw",
+        "hash": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        "size": 15462
+    },
+    {
+        "file": "audio/STREAMS/NJ.osw.idx",
+        "hash": "980e1a5145799c5bad42635c5b934562e0acb7e1146b79071734eaed48b711f0",
+        "size": 2994
+    },
+    {
+        "file": "audio/STREAMS/RE.osw",
+        "hash": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        "size": 15462
+    },
+    {
+        "file": "audio/STREAMS/RE.osw.idx",
+        "hash": "292c0a3fb991236d2c951eb40c93136ea61641c1cab3f72a810eaf0a39cd233b",
+        "size": 3707
+    },
+    {
+        "file": "audio/STREAMS/RG.osw",
+        "hash": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        "size": 15462
+    },
+    {
+        "file": "audio/STREAMS/RG.osw.idx",
+        "hash": "9d3e8370bb96c11927ad4785af68ebbae7bbee64ef213852655a0430424c1314",
+        "size": 3914
+    },
+    {
+        "file": "audio/STREAMS/TK.osw",
+        "hash": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+        "size": 15462
+    },
+    {
+        "file": "audio/STREAMS/TK.osw.idx",
+        "hash": "db3f6081c7d8c605e34b3daa7f7033f0efb335a0fc478944a7ba1b599c545926",
+        "size": 2327
+    },
+    {
+        "file": "data/360Default1280x720.cfg",
+        "hash": "b26d40d280bf93dc685668b099c303b2a0700dd9f0460307d5643cbad70c6ca6",
+        "size": 10898
+    },
+    {
+        "file": "data/360Default960x720.cfg",
+        "hash": "142128a657affbbe4dabbc2c992c58890cb8fa5157e72d95fbbe50c3194011fd",
+        "size": 10888
+    },
+    {
+        "file": "data/animgrp.dat",
+        "hash": "012b10d891840c48e0f282fdef7700673a12fe6c568a7ac9127c21095808aef8",
+        "size": 3096
+    },
+    {
+        "file": "data/ar_stats.dat",
+        "hash": "3f8a184d088dc25e166ff0bb067286b5dcac2398de21d3bb4e00b43956d31d25",
+        "size": 3593
+    },
+    {
+        "file": "data/carcols.dat",
+        "hash": "948c63cbbc08a8bad6fd1d6b073ab8aee91d6d1d49cc08c427c68299bed905f7",
+        "size": 15337
+    },
+    {
+        "file": "data/cargrp.dat",
+        "hash": "196dc47c03225969aa95a0ef1e2a53bdbcf197223905a495fb96bf9ca08e8d01",
+        "size": 3909
+    },
+    {
+        "file": "data/carmods.dat",
+        "hash": "674cd3e5e0f5393bbe5323b053efb57e9b3c67d37694a911ff065d7a7f1967f2",
+        "size": 8763
+    },
+    {
+        "file": "data/clothes.dat",
+        "hash": "5fff15c81a5f8c32f4d3dff22ad6748c9b8c0a45af7b9f67e22fb2b9ae05c593",
+        "size": 5317
+    },
+    {
+        "file": "data/colorcycle.dat",
+        "hash": "0256d485be9f1a52d33ef34f5c3aa678b5f3f09a8d012cc7b9328551259b73a8",
+        "size": 16280
+    },
+    {
+        "file": "data/default.dat",
+        "hash": "3abbdd89a94c73c93efa95b1657e339ba25f51e84787ff63e5b5c443951fecab",
+        "size": 577
+    },
+    {
+        "file": "data/default.ide",
+        "hash": "3aea4d74891f77602e1e7e32e3dfd6716fcccf257e87f7ab43c57f64339ff8c2",
+        "size": 4679
+    },
+    {
+        "file": "data/fonts.dat",
+        "hash": "173185446d11a5490ecb80ba67d37995eaf11ab8a3f465b6bfd1fcdbc1aeae69",
+        "size": 3576
+    },
+    {
+        "file": "data/furnitur.dat",
+        "hash": "d7184e6ced806097582e38605f7f860e0070d05e8a2bdb84d6d6b0df8a92791a",
+        "size": 16480
+    },
+    {
+        "file": "data/gridref.dat",
+        "hash": "62108eed8a03f4e61f16f83f750e54cbb894660a5c2ad104a086919dfbe13188",
+        "size": 1498
+    },
+    {
+        "file": "data/gta.dat",
+        "hash": "76ed8d8ab20482d2ec5204332b1a2266122571617f9447daa511a4679c880996",
+        "size": 1461
+    },
+    {
+        "file": "data/handling.cfg",
+        "hash": "4c0b63a5f6dd328d698781a92667b98c6e2e62423ab7827a9d7205dd89fff07c",
+        "size": 57853
+    },
+    {
+        "file": "data/info.zon",
+        "hash": "9396cf9b7bec5a797fa4614ee7ab578d910ed5cdd9d475adfb35801612ec8058",
+        "size": 28139
+    },
+    {
+        "file": "data/mainv1.scm",
+        "hash": "940d7151c5a50537c8ea322acc578b507b633a05898f7f169d6cb5f18e3e1d8f",
+        "size": 20169
+    },
+    {
+        "file": "data/map.zon",
+        "hash": "4f78672e3ee70a1f5e09cd9acebe23f0597a39e275bf493a1f1c29ccfd268775",
+        "size": 436
+    },
+    {
+        "file": "data/melee.dat",
+        "hash": "d82430a32f31c239c38e1db8c83589307fb221fce417962993a8c63cb1d3da4b",
+        "size": 6306
+    },
+    {
+        "file": "data/object.dat",
+        "hash": "3de9a3c1628c2bd897c0cae05046365d5965f07d3b727db6e26c982313ac792a",
+        "size": 128572
+    },
+    {
+        "file": "data/ped.dat",
+        "hash": "fa4a2636ba772080c75d0986379a862c4c2f7cf7bf6c1550557f3557236b450e",
+        "size": 1276
+    },
+    {
+        "file": "data/pedgrp.dat",
+        "hash": "157f429231421f37d44b2b4890b14ee0537f7f32a8bdf71a140340ac04770222",
+        "size": 5792
+    },
+    {
+        "file": "data/peds.ide",
+        "hash": "ec16c488c40f2c563c475130eb7ef633a024ac6bc0f01e8bfb248972a241af92",
+        "size": 33401
+    },
+    {
+        "file": "data/pedstats.dat",
+        "hash": "280c12e4f8b36f6e68b68323fb3d01d853b9a91bf4497964ce5159abfd84d684",
+        "size": 3604
+    },
+    {
+        "file": "data/plants.dat",
+        "hash": "d989d13c540be6e8c7e381ac1785a61a99ca8dc97002ed9013a0312b5dab08a8",
+        "size": 9887
+    },
+    {
+        "file": "data/popcycle.dat",
+        "hash": "82b3b05d6bc67c3abec9d12770ebfdbd26f99cb564901f455822b9697df25fc9",
+        "size": 120836
+    },
+    {
+        "file": "data/procobj.dat",
+        "hash": "b41895965d087b90aa8b11a66849002a08256a27010209b2b534e0f4438d95c5",
+        "size": 10019
+    },
+    {
+        "file": "data/reytiz.dat",
+        "hash": "e4f2c8ba2e16fe6db39bedadbb4557a47b4b0daffd050c77f54374c59bb42432",
+        "size": 115096
+    },
+    {
+        "file": "data/shopping.dat",
+        "hash": "93e640e29049ee9985185b7aaf1b2f3d11f8540ff8791a751632d6ba90d0bd4d",
+        "size": 46875
+    },
+    {
+        "file": "data/ShopUVs.dat",
+        "hash": "4b74b27a88807e5fe2ac9ec7d21dbd1198d1f3447db2d1bc745bf7a82d487183",
+        "size": 30509
+    },
+    {
+        "file": "data/statdisp.dat",
+        "hash": "b0a95199c27656c43f3f3b0d7bb302649c7605a563634cdf81116929b89e04ab",
+        "size": 7292
+    },
+    {
+        "file": "data/surface.dat",
+        "hash": "09cf086c44c2409f6d5f40f58d7a753f0384d227b7f8c27fec7fe5dbe56c4a90",
+        "size": 576
+    },
+    {
+        "file": "data/surfaud.dat",
+        "hash": "5a25dfb38743e42b46f7979941f9fa8a1201788e91f991975dfed997aa4db605",
+        "size": 6530
+    },
+    {
+        "file": "data/surfinfo.dat",
+        "hash": "431b95d4dcb20ce5258f7d939902c56d50fb4ee68b30ed7a044919c666291b55",
+        "size": 28106
+    },
+    {
+        "file": "data/timecyc.aaa",
+        "hash": "110b41de66ba519b6f41b7a1a6a4b19ae10aebcffdfbabbeb229dc5b7d334b74",
+        "size": 38826
+    },
+    {
+        "file": "data/timecyc.bak",
+        "hash": "4a7342c4098b020cebd68c3784078532a23167271f6097dfa0daaee11fd63f0e",
+        "size": 40347
+    },
+    {
+        "file": "data/timecyc.cfg",
+        "hash": "5d8b5c9dee3a6d09906bf659a2bd411dd368c831f38b612dcff72f74e2ddf281",
+        "size": 39751
+    },
+    {
+        "file": "data/timecyc.dat",
+        "hash": "38c57721d56eebb19fde0b6f766ef60de3388d87970538b5ab9464d7d3c10ec8",
+        "size": 48343
+    },
+    {
+        "file": "data/timecyc.tmp",
+        "hash": "858c0901221df7772dc33b946a90940f28fc323cf080552a43d7a05723b26815",
+        "size": 38243
+    },
+    {
+        "file": "data/timecyc.two",
+        "hash": "4a7342c4098b020cebd68c3784078532a23167271f6097dfa0daaee11fd63f0e",
+        "size": 40347
+    },
+    {
+        "file": "data/timecyc1.aaa",
+        "hash": "110b41de66ba519b6f41b7a1a6a4b19ae10aebcffdfbabbeb229dc5b7d334b74",
+        "size": 38826
+    },
+    {
+        "file": "data/timecycp.dat",
+        "hash": "1d7b457a811ae31210cd66a61142a7f8bb16a7b283a5650befeff27530ab368c",
+        "size": 40894
+    },
+    {
+        "file": "data/timecycp1.dat",
+        "hash": "34989779a9868a0e54f64edb2b5813d65eabe18f1ecf01bcbb9188a5a6964584",
+        "size": 40520
+    },
+    {
+        "file": "data/TouchDefaultPhone3x2.cfg",
+        "hash": "59704c4caa1fe09942708ac9ae1e35c72446664e3e817c602b79ae3ca754b8df",
+        "size": 10912
+    },
+    {
+        "file": "data/TouchDefaultPhoneWidescreen.cfg",
+        "hash": "8b5f1208d4a178c631588797d370dda8a43095d09360987cf5b5d90b4d324f03",
+        "size": 10924
+    },
+    {
+        "file": "data/TouchDefaultTablet4x3.cfg",
+        "hash": "1e3fd9c4bd4ea8093e8fae76243a1abf32c694be481139c32e133666c90acb29",
+        "size": 10926
+    },
+    {
+        "file": "data/TouchDefaultTabletWidescreen.cfg",
+        "hash": "c728569e368244dc777764cfcc689aeff81fdbd2b1e1d2527f9ec49ee8d051bf",
+        "size": 10923
+    },
+    {
+        "file": "data/txdcut.ide",
+        "hash": "68299b02ec1f00da7a93a400742c9f8edf3b776cf339431228af969f95249055",
+        "size": 478
+    },
+    {
+        "file": "data/vehicles.ide",
+        "hash": "2d70455cda1ed89da9cc1a995ccb2539899b84360a2411c887d88617365ead37",
+        "size": 21093
+    },
+    {
+        "file": "data/water.dat",
+        "hash": "59f239f9aebeb7619da5865d84f75caf1b571c7e5c4e5d3f944d24d684359164",
+        "size": 50460
+    },
+    {
+        "file": "data/water1.dat",
+        "hash": "c43d750c3a9b1d645235f0c987fac3b1f2fa20aafd78449e831f2aea36de5f68",
+        "size": 60063
+    },
+    {
+        "file": "data/water1s.dat",
+        "hash": "d4ff9979149843de45c12c9088c76606f8c2091d19d0e0762bb6fd0f89c0291b",
+        "size": 65
+    },
+    {
+        "file": "data/water2.dat",
+        "hash": "845a935cf414cfb221122de51913e7b9690f8b66a5f902e3343c6a625e4ae387",
+        "size": 11
+    },
+    {
+        "file": "data/weapon.dat",
+        "hash": "2d1882345168d3cfb8c8ba4065eea13ff08a05a0432d4f6ce0874110ea873b12",
+        "size": 11599
+    },
+    {
+        "file": "data/Decision/PedEvent.txt",
+        "hash": "c61a077262a419b15a14961341144a96795f45d49014deb6fa98aa0e180400be",
+        "size": 1298
+    },
+    {
+        "file": "data/Decision/Allowed/Cop.ped",
+        "hash": "d91e13fb6aaf0be786e32fd37a68cf0425cef9fbc23742222d31d1ff312a8150",
+        "size": 4908
+    },
+    {
+        "file": "data/Decision/Allowed/Fireman.ped",
+        "hash": "cb9a75b87d6960e51a12a4d896f099e5ed1576d76d7946a0570f10e98872de54",
+        "size": 4435
+    },
+    {
+        "file": "data/Decision/Allowed/GangMbr.ped",
+        "hash": "c2653aba07c5c04017b44797cc4f1d2899da9e4d36ac6420ca22b5600172f57d",
+        "size": 6194
+    },
+    {
+        "file": "data/Decision/Allowed/Indoors.ped",
+        "hash": "53dc5665a42bd47d9dc8be8d7a2440b5722b10940186c000235213cb8c1d8fe1",
+        "size": 2809
+    },
+    {
+        "file": "data/Decision/Allowed/MISSION.grp",
+        "hash": "1a97a3018d9a852b699beb1904af4ae8ed1b7aab5fe1742e59917fb29eda2af6",
+        "size": 2758
+    },
+    {
+        "file": "data/Decision/Allowed/m_empty.ped",
+        "hash": "df0e18f0148152c98132381927b617140fc6e8967a68085cc630cbe734e0c9b5",
+        "size": 982
+    },
+    {
+        "file": "data/Decision/Allowed/m_norm.ped",
+        "hash": "fa99612c55e6b8ffc76170fc56567f57a7153f47173c1b2a065d4ef4b8299bfe",
+        "size": 4142
+    },
+    {
+        "file": "data/Decision/Allowed/m_plyr.ped",
+        "hash": "261b87d08b49ce72c3f9d02201bae15889f2a9ff65798e704fcf53098fbd304e",
+        "size": 2000
+    },
+    {
+        "file": "data/Decision/Allowed/m_steal.ped",
+        "hash": "635372cb7c36134f4bfdd1ae343763ad3d814db7b19fef7eb34a2ca48ed48ec4",
+        "size": 3663
+    },
+    {
+        "file": "data/Decision/Allowed/m_tough.ped",
+        "hash": "99129a3281653e428cea13b6fb626d21bed6381849f92e11b5638f1f3c23687d",
+        "size": 3980
+    },
+    {
+        "file": "data/Decision/Allowed/m_weak.ped",
+        "hash": "5e97f56b79986532d76d401a1929c1c3879bcae6377face62f0ed9976b28a6d6",
+        "size": 4062
+    },
+    {
+        "file": "data/Decision/Allowed/RANDOM.grp",
+        "hash": "d4848b45f3fa6b8c9fb15b4bee0c7ee8b42a1a8ccc9e6bdfa01f1d5ab0522265",
+        "size": 4623
+    },
+    {
+        "file": "data/Decision/Allowed/RANDOM.ped",
+        "hash": "fa99612c55e6b8ffc76170fc56567f57a7153f47173c1b2a065d4ef4b8299bfe",
+        "size": 4142
+    },
+    {
+        "file": "data/Decision/Allowed/RANDOM2.grp",
+        "hash": "4a3f855271adb3dc41a91a7595281fd534d64768596195037ccd1cd01318352a",
+        "size": 4623
+    },
+    {
+        "file": "data/Decision/Allowed/R_Norm.ped",
+        "hash": "33175de3da4445186551bf2aeadacd4f706879cbbe47411c73fd228d41fdb30c",
+        "size": 6450
+    },
+    {
+        "file": "data/Decision/Allowed/R_Tough.ped",
+        "hash": "fd8d95ea1b3915983380eb48efa124883fecd5069157c8673d0a111e7ecdb1c9",
+        "size": 6378
+    },
+    {
+        "file": "data/Decision/Allowed/R_Weak.ped",
+        "hash": "41f15594c0c639475f904b3ee09474f8ceac9f504345f421cf6f740f8287e60d",
+        "size": 6289
+    },
+    {
+        "file": "data/maps/0.IPL",
+        "hash": "5b4f4c7a78c73ed168ddf95a70e31acff40ee39db9f9820c2c97735a52ecdb46",
+        "size": 108477
+    },
+    {
+        "file": "data/maps/1.IPL",
+        "hash": "52cd369f1acc424abfb906422237a9c07dc330f4ce12f26ccf4734d247391d21",
+        "size": 74529
+    },
+    {
+        "file": "data/maps/123.IPL",
+        "hash": "a29f00bc2abcbdb530e4b3d691b694fdea40a78e92e5686804f0e77cb1e3a5d1",
+        "size": 18345
+    },
+    {
+        "file": "data/maps/13.IPL",
+        "hash": "771c27d747b19af773de68bf69c38ff4820ee1f81e82b0c636d721c284410729",
+        "size": 48
+    },
+    {
+        "file": "data/maps/2.IPL",
+        "hash": "771c27d747b19af773de68bf69c38ff4820ee1f81e82b0c636d721c284410729",
+        "size": 48
+    },
+    {
+        "file": "data/maps/3.IPL",
+        "hash": "c24a6c975b6177b6783f9852a960520d52ee406199ea3ad02218778a483db8fa",
+        "size": 45304
+    },
+    {
+        "file": "data/maps/4.IPL",
+        "hash": "771c27d747b19af773de68bf69c38ff4820ee1f81e82b0c636d721c284410729",
+        "size": 48
+    },
+    {
+        "file": "data/maps/5.IPL",
+        "hash": "0e1fbb1e96cbc3601fc4dd6cddda9258c3a56c464a35ded7af1614b741888835",
+        "size": 51885
+    },
+    {
+        "file": "data/maps/6.IPL",
+        "hash": "c7d9d89f3ab4199ef782e7ffb0d56883e424d26e335cd9638560ebbda07b27a0",
+        "size": 728
+    },
+    {
+        "file": "data/maps/Audiozon.ipl",
+        "hash": "9e850123c63acb7565ad6a07f4b2b509c8b484a8baf50448c1b63f5ab5b951d2",
+        "size": 153
+    },
+    {
+        "file": "data/maps/beach.ide",
+        "hash": "dde17c8e8d77f41d360ebeb965068932931896042e5422292f9450907a077a15",
+        "size": 97942
+    },
+    {
+        "file": "data/maps/beach.ipl",
+        "hash": "a6c53736470e2f6d4f49b46000c4e1d31428c640a78f50c640bbe2a96845780f",
+        "size": 208627
+    },
+    {
+        "file": "data/maps/beach2.ipl",
+        "hash": "7cc037b4aabb11569da82bf1592ace2754e46630d89c0be5c764dbd6c06036e0",
+        "size": 142752
+    },
+    {
+        "file": "data/maps/bestmap.IPL",
+        "hash": "0092bfe9852b091c52850c4fdf17c6612dee1ec4ef1d279adc3c07ec537b887a",
+        "size": 50946
+    },
+    {
+        "file": "data/maps/bestpalm.IPL",
+        "hash": "5a37016002ffc9368ce43bf45200518e08e96eccde4ee0ff81a413776e490a6b",
+        "size": 6284
+    },
+    {
+        "file": "data/maps/bestprops.IPL",
+        "hash": "45b523aab8a43c60fd2fb825858e2bf7606e7eb64d9940dfb6ce0c3b84cc741f",
+        "size": 12603
+    },
+    {
+        "file": "data/maps/china - ¬«»¿∩.IPL",
+        "hash": "3988704d96445a4a0108c20e011e8befd7f55726717b6b1327a47f10fa549296",
+        "size": 146502
+    },
+    {
+        "file": "data/maps/coms.IDE",
+        "hash": "b0f5ece8d7ca68c3ee37442de48a6cf560c83bacb0899c7972548bd81f03549b",
+        "size": 2284
+    },
+    {
+        "file": "data/maps/cou.IPL",
+        "hash": "1d2faceb37c389c0c0150c930d942a84cc0890ed2f81d77eb4890d5a5646c7a9",
+        "size": 3172
+    },
+    {
+        "file": "data/maps/count.IPL",
+        "hash": "81223f6d95492784d59c8e053c1b3e439635a244294abe776e274d72dd7a6a83",
+        "size": 11522
+    },
+    {
+        "file": "data/maps/cull.ipl",
+        "hash": "17b2c5aa51611486fd2445496f5d153e305c7efd7931e9b77c083f1d12e0e4c0",
+        "size": 165
+    },
+    {
+        "file": "data/maps/d_townw.IPL",
+        "hash": "0b9a0e906454fee88fad5e78fecab55f5216e50515ae25a587d20a153e015f41",
+        "size": 257313
+    },
+    {
+        "file": "data/maps/EMPTY.IPL",
+        "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+        "size": 2
+    },
+    {
+        "file": "data/maps/gj.IPL",
+        "hash": "cd47be04971abb36ce77d13eb575121af770855c4816c1d00e3be48e72caf0e7",
+        "size": 113
+    },
+    {
+        "file": "data/maps/gta5.IDE",
+        "hash": "067cf4c4c998f1230735246b64ec3f662fb12cd8dbec0abf7ec244d9b5dae218",
+        "size": 214
+    },
+    {
+        "file": "data/maps/gta5.IPL",
+        "hash": "aa130b41e86c545d7ac51f6fe52d5f7c34d2b5c07ca99867a72afd62ac8c7bd3",
+        "size": 180
+    },
+    {
+        "file": "data/maps/harwoo.IPL",
+        "hash": "cdb3c57625770de1d5287b2798fc6182f0ab8846ff3e2389f28f6e10abe039c4",
+        "size": 13514
+    },
+    {
+        "file": "data/maps/hoboken.IPL",
+        "hash": "b687077384fe147b6abc139496e638b0b5005ea889f59fb41721270d14c06804",
+        "size": 23833
+    },
+    {
+        "file": "data/maps/ind_1.IPL",
+        "hash": "a553d9a7c335c1cd538ca64dbde21679194a7d448ad52180cae7daf053509e42",
+        "size": 25495
+    },
+    {
+        "file": "data/maps/ind_2.IPL",
+        "hash": "8c73f756ce21bd113790b72ef3087bbfb61597c9a2c40c6f24ee0f1acb65edd8",
+        "size": 52
+    },
+    {
+        "file": "data/maps/ind_3.IPL",
+        "hash": "8a0b105858a0380790534c8a0379eb4da3b41bd13863f2d43d00c687a0a1cf52",
+        "size": 12498
+    },
+    {
+        "file": "data/maps/int.IDE",
+        "hash": "bc2905a061aac092c1dbb20ce41c1744f89672afd22370580449d5edabf5c576",
+        "size": 348
+    },
+    {
+        "file": "data/maps/int.IPL",
+        "hash": "c7f413af27de37a0baf2216ae4a8754803303f7fb52cbd4e5a2239e7595c66a9",
+        "size": 444
+    },
+    {
+        "file": "data/maps/intCS.ipl",
+        "hash": "3386a9697a531d8276aa84c8c13baa475766ed37dcf2144d6984ae3775be3505",
+        "size": 221
+    },
+    {
+        "file": "data/maps/intdiaz.ipl",
+        "hash": "857d306ef89ae6ffdab41031d300568746b6ab2148566e57a94384dbf86a0313",
+        "size": 226
+    },
+    {
+        "file": "data/maps/intex.IPL",
+        "hash": "5f14859e57c9898eeda6bc5c0503a039540e024dc4b884a047f131489b8362d9",
+        "size": 3485
+    },
+    {
+        "file": "data/maps/intlu.ipl",
+        "hash": "48c965d01962312667491924d6480f5c6249b459df0504d0ad4d9fc4c0f57244",
+        "size": 229
+    },
+    {
+        "file": "data/maps/ints.IDE",
+        "hash": "20c93012dbdd21a37cfde916bb92292a6439424791579856fed0b76a031b05b5",
+        "size": 1473
+    },
+    {
+        "file": "data/maps/ints_1.IPL",
+        "hash": "6d60efb99676ac98a42b472d1fc22dcf2d6360bb0043c28631f468b5cbf27310",
+        "size": 53688
+    },
+    {
+        "file": "data/maps/intumderto.ipl",
+        "hash": "69e04ddf56fa067d4c64587585b7db36a1866657265b48d5ba63f47df82b9b8d",
+        "size": 227
+    },
+    {
+        "file": "data/maps/intvic1.ipl",
+        "hash": "f5184f960e2cab027d8f32d3f799e4db152a386256f498c0a29fa6e8dee4bd0b",
+        "size": 229
+    },
+    {
+        "file": "data/maps/lands.IDE",
+        "hash": "ee01e92173583fc3656107d0f19b36f74873d932f947a59c30b803cc3cfb5e6d",
+        "size": 14601
+    },
+    {
+        "file": "data/maps/lods.IPL",
+        "hash": "f40c8896c6a3f3a5fed0d8006755aace7f7915491b943d974a79cb5c6b289507",
+        "size": 74189
+    },
+    {
+        "file": "data/maps/mainla.ide",
+        "hash": "7f9b257e228aedeb7a85bc0533adee3ec3fdb000a058dcbe6490a5a700444516",
+        "size": 101610
+    },
+    {
+        "file": "data/maps/mainla.ipl",
+        "hash": "5a37ee73e7de067a0b6cc889b070ca8924c3fa91b38cb05d7af604fe7c83a600",
+        "size": 374029
+    },
+    {
+        "file": "data/maps/mainla2.ipl",
+        "hash": "43959a522336f7a4cb5092d35d502c788a0f6d83686c1bea20837e56b06aae4b",
+        "size": 114854
+    },
+    {
+        "file": "data/maps/MAPKIN.IDE",
+        "hash": "f637e1041e4223b393e6109f36ba73daefdbee00f2f2221fdf39ac1c5fc83abc",
+        "size": 213
+    },
+    {
+        "file": "data/maps/mct.IDE",
+        "hash": "bca5fad698a730fdae6515f64967d327362d1aa8acef23c6f14f0ef2f003358b",
+        "size": 18929
+    },
+    {
+        "file": "data/maps/mct_1.IPL",
+        "hash": "fdfe4022a59463d8ab458f9c4c0f3047e3950e5f5495803d52452ad87c85da8d",
+        "size": 77103
+    },
+    {
+        "file": "data/maps/mct_1x.IPL",
+        "hash": "9be60f5ff378fb26813d760fc9b33482f25b193405efea548966ebf112b6366d",
+        "size": 67917
+    },
+    {
+        "file": "data/maps/mct_2 - ¬«»¿∩.IPL",
+        "hash": "d6b5aa212b4717324c15d2474e273046a2d244cc2035618c035f086f3d57b65c",
+        "size": 78234
+    },
+    {
+        "file": "data/maps/mct_2.IPL",
+        "hash": "b408b07b0d201ca49daefcdda63f16cc0906c2356dc3a8f790ea3b9d89b9447e",
+        "size": 88211
+    },
+    {
+        "file": "data/maps/mct_3 - ¬«»¿∩.IPL",
+        "hash": "9d9056f30bceaec6ccfdd42e560d8accdbd07765d014a429b39d834faa68a31a",
+        "size": 78537
+    },
+    {
+        "file": "data/maps/mct_3.IPL",
+        "hash": "d7cd59672a01a1ef5cb25fbf90e4a17cc4ca170ea19886c083fcd998b18ca97e",
+        "size": 86758
+    },
+    {
+        "file": "data/maps/mct_4 - ¬«»¿∩.IPL",
+        "hash": "79bdfbc1a873a7ec2f5d0562ead9fcff4ea58698732a1dfd1d3c9910d11c58fd",
+        "size": 130032
+    },
+    {
+        "file": "data/maps/mct_4.IPL",
+        "hash": "9cb02c63c51113fdac39f6dc7f34a787e4e15283d27b8ffda76dd27eee1d9914",
+        "size": 144102
+    },
+    {
+        "file": "data/maps/mct_5 - ¬«»¿∩.IPL",
+        "hash": "cadad8b57e8c46308b367fbdadcd180c74919087abc8c3b0063dd59947766bd0",
+        "size": 49942
+    },
+    {
+        "file": "data/maps/mct_5.IPL",
+        "hash": "8b9351506df852fdb20c81657135c65512cb52b03d0b42f3b9f9922762eb0590",
+        "size": 57159
+    },
+    {
+        "file": "data/maps/mct_6 - ¬«»¿∩.IPL",
+        "hash": "7eafc5a55ee95ad8ecb32a7b9ef445237b15289adf384a8f06b1aee7cb11c3a3",
+        "size": 113912
+    },
+    {
+        "file": "data/maps/mct_6.IPL",
+        "hash": "fb4ebbe31a175e6ca4160dbcd7d87abe1a221f5e790abaaa81ecae6b3c776a4f",
+        "size": 133493
+    },
+    {
+        "file": "data/maps/mct_7 - ¬«»¿∩ (2).IPL",
+        "hash": "5f8ed5a6f5242eb63ceaa8f672a395aeebde45848acc230985f4d799369e7528",
+        "size": 119194
+    },
+    {
+        "file": "data/maps/mct_7.IPL",
+        "hash": "92dbfe9e78d7d70fb05c8dc0e3dda33dbee6231fe84022bd2889ac2809ffc40a",
+        "size": 255876
+    },
+    {
+        "file": "data/maps/mct_7_.IPL",
+        "hash": "b6c3bb947233aef944a9f123b6fac153397972174b24713ad29d2405bdaee689",
+        "size": 205377
+    },
+    {
+        "file": "data/maps/mct_8 - ¬«»¿∩.IPL",
+        "hash": "3e377dc2d1e898e31d464b5de2942487f327b52c151693220e896b33a515343c",
+        "size": 83568
+    },
+    {
+        "file": "data/maps/mct_8.IPL",
+        "hash": "6a08b75b2bbf0afcac086387a10ed193a9f85bf4b0b74131d3b3ee4e41972e68",
+        "size": 31798
+    },
+    {
+        "file": "data/maps/nature.IDE",
+        "hash": "7775d593b3cb1bc0355353844b3e8cdb7e61fbf9a24a9f5e59e342fa2aad0e6b",
+        "size": 3271
+    },
+    {
+        "file": "data/maps/objects.IDE",
+        "hash": "dd5964fd5398c07be0499c251dc4879fdb559c4b8756583fbb481c04625969f6",
+        "size": 9042
+    },
+    {
+        "file": "data/maps/occlu.ipl",
+        "hash": "8702517108af8261bf060bb82420e85208828467e83b34ba80925719d0d5959c",
+        "size": 11
+    },
+    {
+        "file": "data/maps/occluint.ipl",
+        "hash": "8702517108af8261bf060bb82420e85208828467e83b34ba80925719d0d5959c",
+        "size": 11
+    },
+    {
+        "file": "data/maps/occluLA.ipl",
+        "hash": "8702517108af8261bf060bb82420e85208828467e83b34ba80925719d0d5959c",
+        "size": 11
+    },
+    {
+        "file": "data/maps/occlusf.ipl",
+        "hash": "8702517108af8261bf060bb82420e85208828467e83b34ba80925719d0d5959c",
+        "size": 11
+    },
+    {
+        "file": "data/maps/occluveg.ipl",
+        "hash": "8702517108af8261bf060bb82420e85208828467e83b34ba80925719d0d5959c",
+        "size": 11
+    },
+    {
+        "file": "data/maps/palm.IPL",
+        "hash": "02275395128cd2d0b71cd53be3a3270e99033c3751ae8ae62d367108722cdfdb",
+        "size": 3909
+    },
+    {
+        "file": "data/maps/palm_1.IPL",
+        "hash": "667c374273a444ff3751d9b2652e59bb973aa59c80ba819026b219942802b509",
+        "size": 16023
+    },
+    {
+        "file": "data/maps/paths.img",
+        "hash": "397f25f5a9873f281b3cfd752faf4806e505faa3fc706486886b31a35be1e2bb",
+        "size": 135168
+    },
+    {
+        "file": "data/maps/paths.ipl",
+        "hash": "1b8b896eda941aaf31391af571c52d371f5d7617cb2ccf44d148f80e464142ea",
+        "size": 2658607
+    },
+    {
+        "file": "data/maps/paths2.ipl",
+        "hash": "70a6488bf2c39e486262c6396164c7135b3966797d978d49dcc4788d6242bb1d",
+        "size": 2292241
+    },
+    {
+        "file": "data/maps/paths3.ipl",
+        "hash": "50a8a882a36c6a39fdbe417000e27579d0f37541df3a0d54bc306c5a70316c5a",
+        "size": 2428066
+    },
+    {
+        "file": "data/maps/paths4.ipl",
+        "hash": "9e770e5ce9724b94ca74dd9256534e233f0b37b0ff72d0001dd1cf93fe5f9f25",
+        "size": 253014
+    },
+    {
+        "file": "data/maps/paths5.ipl",
+        "hash": "67fc1be4e28dd4837d7d3f369e0d8b1ceae67f1e507959fd2c38cbce4e15949c",
+        "size": 457678
+    },
+    {
+        "file": "data/maps/pine_1.IPL",
+        "hash": "ce1742636d37e4d5b1091dd24142ffd97801b1492dc6294336f556538dc1d97b",
+        "size": 1849
+    },
+    {
+        "file": "data/maps/portland - ¬«»¿∩.IPL",
+        "hash": "3f255e0369e7a7d16ca77adff42a6cfedb4326870498046d4e49a7580ac76fbe",
+        "size": 94429
+    },
+    {
+        "file": "data/maps/portland.IPL",
+        "hash": "dc703c175b3f4c25a614c3ddc3024762b9e3cc7dec604efa2e4b11ece6e8745e",
+        "size": 117116
+    },
+    {
+        "file": "data/maps/props.IPL",
+        "hash": "a01dd99dbc43d030c51412bb3e9b652721b417a337d71c4faa0019aaea48f1c2",
+        "size": 11206
+    },
+    {
+        "file": "data/maps/props_1.IPL",
+        "hash": "9a970d576d6f0fbf70691db81d30beb82369c5e103ef5171e76892d7b11b5a6f",
+        "size": 20061
+    },
+    {
+        "file": "data/maps/p_view1.IPL",
+        "hash": "f85c644fffa52a54339777b001771f6cd75388f0ed4781be31c9bb225707f9d6",
+        "size": 18699
+    },
+    {
+        "file": "data/maps/red_l.IPL",
+        "hash": "3ded31a5ea7854b03ead4e7dbc02348375b9b08573729995b5dacc5699aed638",
+        "size": 48718
+    },
+    {
+        "file": "data/maps/rip1.1.ide",
+        "hash": "019426a195ee96d092c321d485e9144f75be72a6622f89fe41aceeae20ed1d1b",
+        "size": 29609
+    },
+    {
+        "file": "data/maps/rip1.1.ipl",
+        "hash": "76cc7e571cccbf36e819e706afbcf583728680202cb80accddfea637114b212b",
+        "size": 63264
+    },
+    {
+        "file": "data/maps/rip1.2.ide",
+        "hash": "7261b45a06cdc2dbb80d9f23a2a3a3cd7653972751552644926c0c5941d3e776",
+        "size": 79502
+    },
+    {
+        "file": "data/maps/rip1.2.ipl",
+        "hash": "f7564124bd7d7cfff5956cfe772d641120f064655a435d7e045c48acb72b3c78",
+        "size": 176452
+    },
+    {
+        "file": "data/maps/rip1.3.ide",
+        "hash": "132e76afb31c63a847b9b02d121ac72c6d8da0d1ed54fb2d6fd1ae1e296fe8dc",
+        "size": 36037
+    },
+    {
+        "file": "data/maps/rip1.3.ipl",
+        "hash": "a71f4c0558e5a440695938c8dac7385e1b6ab49df302fa089a1749dfafb10f7e",
+        "size": 154635
+    },
+    {
+        "file": "data/maps/rip1.ide",
+        "hash": "ed009fd0e5487bde36f5928d42f09c8953974ff0bac95895c3a2d12f57b773ac",
+        "size": 32559
+    },
+    {
+        "file": "data/maps/rip1.ipl",
+        "hash": "ac0e964b926d4d6a4b8b73980c449ab3074dfdb99ee999b95587a45b2f537187",
+        "size": 84252
+    },
+    {
+        "file": "data/maps/rip10 (Copy).ipl.txt",
+        "hash": "3427f00d45a700f075bb5e29cffee2d5fc9a9a07ff3f1b7aaca5260bd8add3b4",
+        "size": 64021
+    },
+    {
+        "file": "data/maps/rip10.ide",
+        "hash": "7a9a4ab950bc72cff4764273902ef7a6a23788842aa7c9ce171c75f6e8a03354",
+        "size": 22793
+    },
+    {
+        "file": "data/maps/rip10.ipl",
+        "hash": "53e7ffda1291eb6e3587549ce89e2a93fe14fb68a1d95b734ca9add7c00a42b5",
+        "size": 60341
+    },
+    {
+        "file": "data/maps/rip11.ide",
+        "hash": "bf8b8b577478f0ff763ced64dd4e58bfd2ded367e024ecad27beea346e9d6818",
+        "size": 17819
+    },
+    {
+        "file": "data/maps/rip11.ipl",
+        "hash": "a9bb04c4b198a331f2880359608aa534a63b4e6b3dfb74d12b70999ed7264d98",
+        "size": 61597
+    },
+    {
+        "file": "data/maps/rip12.ide",
+        "hash": "4bc6c798feb343049518267b4840ef490813cbd011e75de61f54476d77ca8f89",
+        "size": 7354
+    },
+    {
+        "file": "data/maps/rip12.ipl",
+        "hash": "5e730fea1fe620b451c1188c9520bf5aa2d390f65db3c71f87e770cc4feba288",
+        "size": 17939
+    },
+    {
+        "file": "data/maps/rip13.ide",
+        "hash": "e947697ccbf7faaf697ec98e16edb4edb6770a61f202239f1b733140ab18b38a",
+        "size": 466
+    },
+    {
+        "file": "data/maps/rip13.ipl",
+        "hash": "98dc8c456155d2d97c1f2ed82eac75de59e37d6204885acf56955cb217c5ef49",
+        "size": 106224
+    },
+    {
+        "file": "data/maps/rip14.ipl",
+        "hash": "bc73715d2de6f6243b961fddb9953aaeae86764acf7516359cf3972c30d3f2f4",
+        "size": 10117
+    },
+    {
+        "file": "data/maps/rip2.ide",
+        "hash": "001d1f3c7202a279588a1bfb34e5cc8c57690e19ff496ddf7949071f95b4f51c",
+        "size": 17479
+    },
+    {
+        "file": "data/maps/rip2.ipl",
+        "hash": "bf740859d72e72c54185c41f979b42580b1c7920382e2d91b359bb7242210b46",
+        "size": 42393
+    },
+    {
+        "file": "data/maps/rip3.ide",
+        "hash": "535876debd38bfaaa7a59dbdf302b8634d3ddf847b3d337912f4ae4575166d51",
+        "size": 17218
+    },
+    {
+        "file": "data/maps/rip3.ipl",
+        "hash": "415e765491c1704f704e1b740b1036f302361d580326144cc2b6e9dd7d2cfeae",
+        "size": 37817
+    },
+    {
+        "file": "data/maps/rip4.ide",
+        "hash": "d204c3abab3d8997e5b7b782017965a36c6b7be158029635e2530bffa5c56ffc",
+        "size": 5544
+    },
+    {
+        "file": "data/maps/rip4.ipl",
+        "hash": "af4f56c6767d08b2b3193dc35b67e7138c564f6884368feb8d312bc3cb666434",
+        "size": 11745
+    },
+    {
+        "file": "data/maps/rip5.ide",
+        "hash": "1157b2827dd677088964723072c7a598c780718493f7217f6310fd616a14a8cb",
+        "size": 4164
+    },
+    {
+        "file": "data/maps/rip5.ipl",
+        "hash": "4041cfb61a3f9a1e203f45a150f1d27f0a17bea99ff5f27907ecc73944f9577a",
+        "size": 9082
+    },
+    {
+        "file": "data/maps/rip6.ide",
+        "hash": "f10fe856980a24343c231f052a8a18e3d447fec9fd07110f9ae2bb467f1ee9d6",
+        "size": 6303
+    },
+    {
+        "file": "data/maps/rip6.ipl",
+        "hash": "c209c1707526ea55d619343d174b5f044f76679a686d988d121d974d3d04cff4",
+        "size": 14639
+    },
+    {
+        "file": "data/maps/rip7.ide",
+        "hash": "d955e87551de295006172c069bdcef9aa5489a6978a8d90b2dc4ddd26140ed98",
+        "size": 8122
+    },
+    {
+        "file": "data/maps/rip7.ipl",
+        "hash": "b9b3bfa9180456b20311554c965d523ca6f4440464da27cab161d492b7477165",
+        "size": 17444
+    },
+    {
+        "file": "data/maps/rip8.ide",
+        "hash": "7abe116760dc834fcbf72c22c9c20d98e96cd228aeedeecfcc59dd1380256301",
+        "size": 938
+    },
+    {
+        "file": "data/maps/rip8.ipl",
+        "hash": "5ec09da1ecd442453c58bb11368b12935e4e481f7843c3912653cc3f299d62eb",
+        "size": 1947
+    },
+    {
+        "file": "data/maps/rip9.ide",
+        "hash": "ab58ea45bc6bfe99d48fc4a05795ccec6cc00d2f8f29b660e65e8714f7da627f",
+        "size": 13737
+    },
+    {
+        "file": "data/maps/rip9.ipl",
+        "hash": "9775af6b74a881f1339cb10c15e9ff82293017266e453f96b131006f77230a46",
+        "size": 29671
+    },
+    {
+        "file": "data/maps/road.IDE",
+        "hash": "e0f416ebb963725b9cc5d66e47204bf1213a90fe1e0b88d08b3830b6b5e76c43",
+        "size": 3675
+    },
+    {
+        "file": "data/maps/rus.IPL",
+        "hash": "6877ae8fce1dee9724da8b06eafdcfa54c4b2d86a07d320a073eb6a1c9456017",
+        "size": 34140
+    },
+    {
+        "file": "data/maps/saint2.IPL",
+        "hash": "2f541ab3b19413037fdf8ddab2510f22232384926d27c39a1cc6770ae2e0b03e",
+        "size": 23036
+    },
+    {
+        "file": "data/maps/saint3.IPL",
+        "hash": "81eab7356ec747b90925555ab77e54d2e78f0c483992b7274660cf9d50d775ed",
+        "size": 38285
+    },
+    {
+        "file": "data/maps/saint4.IPL",
+        "hash": "51f0c2c14267c473f832badd89ade7f9d20d4104a394109acbada4bd3c7b1765",
+        "size": 29711
+    },
+    {
+        "file": "data/maps/saint_m.IPL",
+        "hash": "ea70a72968e261b8e2ab1bb046b23913ddc7d56696843e9ec7756b0b6dfb98e9",
+        "size": 22985
+    },
+    {
+        "file": "data/maps/shts.IDE",
+        "hash": "a3de304d2a51a52bd7155eb7280efa8241d92d39d1530ca6f82dda9c1b0eecf5",
+        "size": 14579
+    },
+    {
+        "file": "data/maps/staunton_1.IPL",
+        "hash": "164806368227cb62ecf6e945470a9044a57a629192800ea0f8c0db368eb32a96",
+        "size": 37840
+    },
+    {
+        "file": "data/maps/sub.IPL",
+        "hash": "60e4b51fc1cd75ebda5d0744ceccaff25644cc50ea473dc0c483c1844235c496",
+        "size": 614
+    },
+    {
+        "file": "data/maps/t.txd",
+        "hash": "b7ffc424b2dab7c088fba5d2cef753b5477352ae23c6eb8df626632cc0dc60e1",
+        "size": 358400
+    },
+    {
+        "file": "data/maps/testbed.ide",
+        "hash": "03d0dc765f317166f9a766386b26bdfd1ae50f8730763d557ed358b6f1c7e438",
+        "size": 54
+    },
+    {
+        "file": "data/maps/testbed.ipl",
+        "hash": "1d0d282394253c56e46cdbc0461f13b06e522fcf8ccc8e717215bb8adff9c838",
+        "size": 203
+    },
+    {
+        "file": "data/maps/tree.IPL",
+        "hash": "0f3168c33683d700dc61ef513d70c57191f4fb6846c8febbeaf63ba91ad2d49f",
+        "size": 3907
+    },
+    {
+        "file": "data/maps/trees_map.ide",
+        "hash": "12bfe550391a7edf786783e117b9095e9d60b056bc803d9829c9cc4372e1d290",
+        "size": 2919
+    },
+    {
+        "file": "data/maps/trees_map.ipl",
+        "hash": "9104c0dd296f4e587f460abd2b5184fe3ba5cf10ae65a5028db983b900ee0ea0",
+        "size": 261224
+    },
+    {
+        "file": "data/maps/tunnels.ipl",
+        "hash": "8fc4458066def9f9012cc2e02f382b3b721b32ddc1213412d16c71ebcb9767e7",
+        "size": 163
+    },
+    {
+        "file": "data/maps/txd.ide",
+        "hash": "539b23649662671a8a6a73e5d1a2e797da645069e595ea592698009798aee92c",
+        "size": 323
+    },
+    {
+        "file": "data/maps/ty.IPL",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+    },
+    {
+        "file": "data/maps/vcsa.IDE",
+        "hash": "0427445263e214f8c610aff76db6fd7a92152d43dac0b2889f92787188397160",
+        "size": 1766
+    },
+    {
+        "file": "data/maps/vcsa.IPL",
+        "hash": "7d9e710f5f2016fbf65d4eb1dd7999dc9fbc960ddcddd3b92f3412b853d480d7",
+        "size": 312
+    },
+    {
+        "file": "data/maps/vcsa_map_1.IPL",
+        "hash": "796f7da53a87f0763583c336f6b83166e671ce19fff3ce8acaf9cfdda2518bab",
+        "size": 104
+    },
+    {
+        "file": "data/maps/WASTE.IDE",
+        "hash": "cb7997a64000db557bb0e3932ccd6db4ea4a593702d4e952b52c0d6698c82893",
+        "size": 4374
+    },
+    {
+        "file": "data/maps/8bit/beach.IPL",
+        "hash": "6e7cdb60d310f80e83b507f55435f8979cdeacd040c79265008748a5a14a8cd5",
+        "size": 56440
+    },
+    {
+        "file": "data/maps/8bit/dcs.IDE",
+        "hash": "4f7c43e36a3f59e6ab313f47af37ff11d66a86338207359a7b1537a9145db7f3",
+        "size": 8133
+    },
+    {
+        "file": "data/maps/8bit/docks.IPL",
+        "hash": "65cc5781f0596849eaf05b8cb6756de56dc22dce1d43cf03b6b0e239cfa9aa65",
+        "size": 9534
+    },
+    {
+        "file": "data/maps/8bit/dtn_n.IPL",
+        "hash": "139064e826dd9fc761d837839ad2fd1c3fcca4b7534f3f05cddd43086bf79a5b",
+        "size": 56773
+    },
+    {
+        "file": "data/maps/8bit/dtn_s.IPL",
+        "hash": "0cc44d2a42915258d962b2cc315df7430539590a03d454cfb1dd6a495efc4f72",
+        "size": 69195
+    },
+    {
+        "file": "data/maps/8bit/hispa.IPL",
+        "hash": "7348ab8a5aba5ba2dd60b75f33daeed85e6c9829baad33a0ab6cbf3d1f9ac507",
+        "size": 85956
+    },
+    {
+        "file": "data/maps/8bit/hotes.IPL",
+        "hash": "25d58b343568016fcc5bf3f3c6905782f3ef6fdb7cdba6a833903a6854171096",
+        "size": 55949
+    },
+    {
+        "file": "data/maps/8bit/ints.IDE",
+        "hash": "7a3a5dd9740f4e3a67a3738e15c6490258296d39d4c471ad4d53aebda9b773e0",
+        "size": 446
+    },
+    {
+        "file": "data/maps/8bit/INT_1.IPL",
+        "hash": "2961107c7186e283d02c87fd5d13dfdc92a3cfe7aecabb55cd6a14b64c91b831",
+        "size": 1706
+    },
+    {
+        "file": "data/maps/8bit/swanks.IPL",
+        "hash": "3939fbcaefca38ddec4aa021ca206f8c0873a5f51b307f186be0047afe159f70",
+        "size": 77025
+    },
+    {
+        "file": "data/maps/8bit/TIKI - ¬«»¿∩.IDE",
+        "hash": "6f4c9172ccf048e6b49c372219db160a1803385c697bfbc3f77e4fe15c81b342",
+        "size": 23364
+    },
+    {
+        "file": "data/maps/8bit/TIKI.IDE",
+        "hash": "c4d116da12ecd9271e35a5b6a7489afb9dd24ab74b42dd8251d396562b63a7b3",
+        "size": 25422
+    },
+    {
+        "file": "data/maps/8bit/TIKI_.IDE",
+        "hash": "fe24da998b046ac58d0227dcc7b328cacc581f579a1a8e85c130fd857ebf4b61",
+        "size": 22880
+    },
+    {
+        "file": "data/maps/8bit/uni_props.IDE",
+        "hash": "51bc3dd75883d1e43db3165abadad356cd973b4c3aa9acdcdf1221bd576cb768",
+        "size": 3434
+    },
+    {
+        "file": "data/maps/8bit/water.dat",
+        "hash": "0f73f752416095f635d3bfb59d40234f475684281169c0fb534c318ddad9a989",
+        "size": 16427
+    },
+    {
+        "file": "data/maps/azure/azure.IDE",
+        "hash": "da8adee9c454d1fcd594b11b2fe2da70a2c82a17343e9e906f2b7ea6021a5f06",
+        "size": 2371
+    },
+    {
+        "file": "data/maps/azure/map_1.IPL",
+        "hash": "bfc094fc73ccf2ee86e5f1588f2d3d9d1551bf0157b83a0ace44330532b44bfa",
+        "size": 3143
+    },
+    {
+        "file": "data/maps/basic/basicmap.ide",
+        "hash": "6ca8fd684abe8dd5c8732ced1403fde4bf24c0302c4c3ee7d150d914cf95835f",
+        "size": 212
+    },
+    {
+        "file": "data/maps/basic/basicmap.img",
+        "hash": "0a2bb0e1e9bbe9c6e06649bc1b1072f57c10f041217e8604a446cf7671ae0449",
+        "size": 1175552
+    },
+    {
+        "file": "data/maps/basic/basicmap.ipl",
+        "hash": "f8d3810f35386923cc8e36ee62abe6ddade0285c95d064087ba508b08de10e72",
+        "size": 326
+    },
+    {
+        "file": "data/maps/beach/Nbeach.ide",
+        "hash": "8afe941864df6342003a12ef4cce8a4c61a0ac7b4a18c3fb575faece91628407",
+        "size": 7332
+    },
+    {
+        "file": "data/maps/beach/Nbeach.ipl",
+        "hash": "71b5bc8044a6a3411ba560d2befa2edbacc96c560a2390f8e9a2d34fb8fa7627",
+        "size": 12941
+    },
+    {
+        "file": "data/maps/beach/Nbeachbt.ide",
+        "hash": "0f2691fa6fdb3950dc57ca779a172c69773322b81fb81319aa1cf2706309aae8",
+        "size": 5510
+    },
+    {
+        "file": "data/maps/beach/Nbeachbt.ipl",
+        "hash": "c2aa6bcd416d8a659a9ac9fd674b76b0d2fd0c34d5a04b5e4031b7e606b21c96",
+        "size": 9311
+    },
+    {
+        "file": "data/maps/beach/Nbeachw.ide",
+        "hash": "be07b0346a479ffbc3b8589a6cca91782f3c3d1d068ad4d3cba5df1d7d046ef1",
+        "size": 4955
+    },
+    {
+        "file": "data/maps/beach/Nbeachw.ipl",
+        "hash": "ddb3e4a4bfeafc32ec251c687746f3166920bc527f85bea9972e6c5ef22593a3",
+        "size": 8805
+    },
+    {
+        "file": "data/maps/beach/Oceandn.ide",
+        "hash": "190e776fe096a3d063e6e11e34eabf445e5dd5df3052be23c18167066a8d9777",
+        "size": 6933
+    },
+    {
+        "file": "data/maps/beach/Oceandn.ipl",
+        "hash": "c2cbd1828dd39d800f7d7114ae877b606f0e357f81ed2f47151fdaee99d93c59",
+        "size": 12105
+    },
+    {
+        "file": "data/maps/beach/Oceandrv.ide",
+        "hash": "bf9756c680a737799e199c6afa743d2b3f250ed5c5fcfacab1b8d3a73b07e063",
+        "size": 4554
+    },
+    {
+        "file": "data/maps/beach/Oceandrv.ipl",
+        "hash": "08e80577e23b33b511bf83cd285bb70773dac0279b6a51b401e0b9a2804e2839",
+        "size": 7875
+    },
+    {
+        "file": "data/maps/beach/Washintn.ide",
+        "hash": "4232768c081b0529bd0cbfffcbc2d349a557b09d5255063bb0b1862e04251066",
+        "size": 7814
+    },
+    {
+        "file": "data/maps/beach/Washintn.ipl",
+        "hash": "741cbf3be964e6e2862cd6d3ff7415d52c5c4e087cf2d43aab85875962b5672c",
+        "size": 13484
+    },
+    {
+        "file": "data/maps/beach/Washints.ide",
+        "hash": "ce7f9ab1b45062538e1a386590156fa0cde23742ad28ca83ab3f01fc8b6d5bd0",
+        "size": 8870
+    },
+    {
+        "file": "data/maps/beach/Washints.ipl",
+        "hash": "deded72a14d306981fe02e92b92da240c29324a441eca61f227858b7efc7ede8",
+        "size": 15303
+    },
+    {
+        "file": "data/maps/BRIDGES/bridge_p.IPL",
+        "hash": "8fac698db895296865620ce6eeac1fb446cf505d0c2ae98dff73b5c60841929d",
+        "size": 2531
+    },
+    {
+        "file": "data/maps/country/countn2.ide",
+        "hash": "935beec9b991b0c5a041d921cce861693c288fc14ea056657071d37881f670a6",
+        "size": 66
+    },
+    {
+        "file": "data/maps/country/countn2.ipl",
+        "hash": "0e4406ecb91b89ffe5f2657d321efda9a6e68552c265040787a5ccbba210c205",
+        "size": 150
+    },
+    {
+        "file": "data/maps/country/countrye.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/country/countrye.ipl",
+        "hash": "0e4406ecb91b89ffe5f2657d321efda9a6e68552c265040787a5ccbba210c205",
+        "size": 150
+    },
+    {
+        "file": "data/maps/country/countryN.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/country/countryN.ipl",
+        "hash": "0e4406ecb91b89ffe5f2657d321efda9a6e68552c265040787a5ccbba210c205",
+        "size": 150
+    },
+    {
+        "file": "data/maps/country/countryS.ide",
+        "hash": "64686007a7d253aa675d02374218e6da24acde21dfc37b8170f18f24b9250655",
+        "size": 70
+    },
+    {
+        "file": "data/maps/country/countryS.ipl",
+        "hash": "0e4406ecb91b89ffe5f2657d321efda9a6e68552c265040787a5ccbba210c205",
+        "size": 150
+    },
+    {
+        "file": "data/maps/country/countryW.ide",
+        "hash": "64686007a7d253aa675d02374218e6da24acde21dfc37b8170f18f24b9250655",
+        "size": 70
+    },
+    {
+        "file": "data/maps/country/countryw.ipl",
+        "hash": "0e4406ecb91b89ffe5f2657d321efda9a6e68552c265040787a5ccbba210c205",
+        "size": 150
+    },
+    {
+        "file": "data/maps/country/counxref.ide",
+        "hash": "2cc771dd14fe391990968aaef9f38ce5326f09648b5068979e041cb8f2892b11",
+        "size": 967
+    },
+    {
+        "file": "data/maps/generic/barriers.ide",
+        "hash": "5b69700e5dd563e6b8b120f881e459cd7eb10550ecf5e8c1cd57b47577378223",
+        "size": 1437
+    },
+    {
+        "file": "data/maps/generic/dynamic.ide",
+        "hash": "fdc45477f05b63bb4df3d65ea0bbb5c82fa3ad85cc799976266f7f7cebc6410a",
+        "size": 4611
+    },
+    {
+        "file": "data/maps/generic/dynamic2.ide",
+        "hash": "4ab3adff99d11f9f5314352825111903b8c56990c3fd3a9b5a0c66390e84b1e1",
+        "size": 10504
+    },
+    {
+        "file": "data/maps/generic/multiobj.IDE",
+        "hash": "ed583ac11f7747012e25ff3209e93194456a89866a4921fd44b02d056cc41868",
+        "size": 5024
+    },
+    {
+        "file": "data/maps/generic/procobj.ide",
+        "hash": "9cab11616dd3c78c6bf983e1f30dc31736a930e98ccdf6721b2fb02ebc43c701",
+        "size": 4762
+    },
+    {
+        "file": "data/maps/generic/vegepart.IDE",
+        "hash": "900e91b9e9970277ad3ecfe5da68825ac73e09c86149f155e6e499d645af3256",
+        "size": 8082
+    },
+    {
+        "file": "data/maps/interior/gen_int1.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/interior/gen_int1.ipl",
+        "hash": "895a7bdf47cb88b63920358572483e7804c0d7e87570f905dc2f60eb588811e8",
+        "size": 154
+    },
+    {
+        "file": "data/maps/interior/gen_int2.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/interior/gen_int2.ipl",
+        "hash": "895a7bdf47cb88b63920358572483e7804c0d7e87570f905dc2f60eb588811e8",
+        "size": 154
+    },
+    {
+        "file": "data/maps/interior/gen_int3.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/interior/gen_int3.ipl",
+        "hash": "895a7bdf47cb88b63920358572483e7804c0d7e87570f905dc2f60eb588811e8",
+        "size": 154
+    },
+    {
+        "file": "data/maps/interior/gen_int4.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/interior/gen_int4.ipl",
+        "hash": "895a7bdf47cb88b63920358572483e7804c0d7e87570f905dc2f60eb588811e8",
+        "size": 154
+    },
+    {
+        "file": "data/maps/interior/gen_int5.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/interior/gen_int5.ipl",
+        "hash": "895a7bdf47cb88b63920358572483e7804c0d7e87570f905dc2f60eb588811e8",
+        "size": 154
+    },
+    {
+        "file": "data/maps/interior/gen_intb.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/interior/gen_intb.ipl",
+        "hash": "895a7bdf47cb88b63920358572483e7804c0d7e87570f905dc2f60eb588811e8",
+        "size": 154
+    },
+    {
+        "file": "data/maps/interior/int_cont.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/interior/int_cont.ipl",
+        "hash": "895a7bdf47cb88b63920358572483e7804c0d7e87570f905dc2f60eb588811e8",
+        "size": 154
+    },
+    {
+        "file": "data/maps/interior/int_LA.ide",
+        "hash": "c4d8111af277160a85db7685f47102dd1fbc5ff16820fa1c890f51fee6742930",
+        "size": 256
+    },
+    {
+        "file": "data/maps/interior/int_LA.ipl",
+        "hash": "3e0d0a4a0175bec05a33c05eac35dbad25e7da07849bfb8d14e9740a873ecb0d",
+        "size": 726
+    },
+    {
+        "file": "data/maps/interior/int_SF.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/interior/int_SF.ipl",
+        "hash": "895a7bdf47cb88b63920358572483e7804c0d7e87570f905dc2f60eb588811e8",
+        "size": 154
+    },
+    {
+        "file": "data/maps/interior/int_veg.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/interior/int_veg.ipl",
+        "hash": "895a7bdf47cb88b63920358572483e7804c0d7e87570f905dc2f60eb588811e8",
+        "size": 154
+    },
+    {
+        "file": "data/maps/interior/propext.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/interior/props.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/interior/props2.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/interior/savehous.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/interior/savehous.ipl",
+        "hash": "895a7bdf47cb88b63920358572483e7804c0d7e87570f905dc2f60eb588811e8",
+        "size": 154
+    },
+    {
+        "file": "data/maps/interior/stadint.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/interior/stadint.ipl",
+        "hash": "895a7bdf47cb88b63920358572483e7804c0d7e87570f905dc2f60eb588811e8",
+        "size": 154
+    },
+    {
+        "file": "data/maps/ipl/ints_1 - ¬«»¿∩.IPL",
+        "hash": "4d9995d115c003290cb996cf13a5c2718533f09a1fc73a203306e0d2c573223a",
+        "size": 55720
+    },
+    {
+        "file": "data/maps/islands/Bridge.ide",
+        "hash": "06787b5a9e88c155e44ca9bd946ed80961687db286ae72d91d114ec5901d40dd",
+        "size": 900
+    },
+    {
+        "file": "data/maps/islands/Bridge.ipl",
+        "hash": "2c28dd90a38e3b58af37a3f63b4e493f9e163e4c01c2988e671374b5d80256cb",
+        "size": 1564
+    },
+    {
+        "file": "data/maps/islands/Cisland.ide",
+        "hash": "a2a18fc64c57769ac650427da191b38892853df51107f6e631ea5cde18ededff",
+        "size": 5921
+    },
+    {
+        "file": "data/maps/islands/Cisland.ipl",
+        "hash": "0323437001cad29b0c095302b47656df26b0d77fb6fa5e88ad11596406b3ceb5",
+        "size": 10408
+    },
+    {
+        "file": "data/maps/islands/Golf.ide",
+        "hash": "b3a62277f026d2af625a346863b9b33a541fe58da92b312e46ed4a85be772983",
+        "size": 2690
+    },
+    {
+        "file": "data/maps/islands/Golf.ipl",
+        "hash": "e6ea08f071eafb850b3708e75f07d03aea0f2614a21a269ccf94d1fe1db3d8cb",
+        "size": 5164
+    },
+    {
+        "file": "data/maps/islands/Islandsf.ide",
+        "hash": "255da56867bc44acbf19703b170d131eaca06a47aabb6e8722c381b12d134ec1",
+        "size": 1922
+    },
+    {
+        "file": "data/maps/islands/Islandsf.ipl",
+        "hash": "18223723ef3dab153b34aaa7bbd25ca993874acfec7588f330f6ec05eeab06b9",
+        "size": 3208
+    },
+    {
+        "file": "data/maps/islands/Mansion.ide",
+        "hash": "8dfe341be4eb6f4bc3d14c1c355a8e16ef99c21edd05d3e27d81e2a3f2302de8",
+        "size": 3866
+    },
+    {
+        "file": "data/maps/islands/Mansion.ipl",
+        "hash": "5cf29697af6408187eeeef6279ccc49ab55761a000b25e04426826f18c1fa1ec",
+        "size": 6703
+    },
+    {
+        "file": "data/maps/islands/Starisl.ide",
+        "hash": "ab694b8440e1b57d70db305764f8bcf5184e511dd4c0cad0c41c16c2b5dbf9f4",
+        "size": 3011
+    },
+    {
+        "file": "data/maps/islands/Starisl.ipl",
+        "hash": "81da9f8c1d488ea5846295c7e3c4f63080e2f1ef9f375f146d0fe84ca5346726",
+        "size": 5307
+    },
+    {
+        "file": "data/maps/KINGS/kings1.IPL",
+        "hash": "771c27d747b19af773de68bf69c38ff4820ee1f81e82b0c636d721c284410729",
+        "size": 48
+    },
+    {
+        "file": "data/maps/LA/LAe.ide",
+        "hash": "64686007a7d253aa675d02374218e6da24acde21dfc37b8170f18f24b9250655",
+        "size": 70
+    },
+    {
+        "file": "data/maps/LA/LAe.ipl",
+        "hash": "b2c29b015a93d3bfa13b6306ae32cd874dab176434418c896165dee241fce296",
+        "size": 2484
+    },
+    {
+        "file": "data/maps/LA/LAe2.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/LA/LAe2.ipl",
+        "hash": "fb276dd5c80713b4e3397dd7bedf3cf2149126d4cc8c886e4165016ad17ef08a",
+        "size": 156
+    },
+    {
+        "file": "data/maps/LA/LAhills.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/LA/LAhills.ipl",
+        "hash": "fb276dd5c80713b4e3397dd7bedf3cf2149126d4cc8c886e4165016ad17ef08a",
+        "size": 156
+    },
+    {
+        "file": "data/maps/LA/LAn.ide",
+        "hash": "fb276dd5c80713b4e3397dd7bedf3cf2149126d4cc8c886e4165016ad17ef08a",
+        "size": 156
+    },
+    {
+        "file": "data/maps/LA/LAn.ipl",
+        "hash": "9eb360a4f5a0af58299306a775064c93438d8e2770ad043a90d41470c4ef0d31",
+        "size": 50290
+    },
+    {
+        "file": "data/maps/LA/LAn2.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/LA/LAn2.ipl",
+        "hash": "2f16b63f401c5583cb1d2e40a8ccbafa1f08a4e2573ec97e47235a0019233c53",
+        "size": 58379
+    },
+    {
+        "file": "data/maps/LA/LAs.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/LA/LAs.ipl",
+        "hash": "fb276dd5c80713b4e3397dd7bedf3cf2149126d4cc8c886e4165016ad17ef08a",
+        "size": 156
+    },
+    {
+        "file": "data/maps/LA/LAs2.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/LA/LAs2.ipl",
+        "hash": "fb276dd5c80713b4e3397dd7bedf3cf2149126d4cc8c886e4165016ad17ef08a",
+        "size": 156
+    },
+    {
+        "file": "data/maps/LA/LAw.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/LA/LAw.ipl",
+        "hash": "fb276dd5c80713b4e3397dd7bedf3cf2149126d4cc8c886e4165016ad17ef08a",
+        "size": 156
+    },
+    {
+        "file": "data/maps/LA/LAw2.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/LA/LAw2.ipl",
+        "hash": "fb276dd5c80713b4e3397dd7bedf3cf2149126d4cc8c886e4165016ad17ef08a",
+        "size": 156
+    },
+    {
+        "file": "data/maps/LA/LaWn.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/LA/LaWn.ipl",
+        "hash": "fb276dd5c80713b4e3397dd7bedf3cf2149126d4cc8c886e4165016ad17ef08a",
+        "size": 156
+    },
+    {
+        "file": "data/maps/LA/LAxref.ide",
+        "hash": "f15f8ab0d4d9140ab6b2fd3a5296d3ea04787f8d12eb11acaa8851b973ca73ad",
+        "size": 68
+    },
+    {
+        "file": "data/maps/LA/è«»¿∩ LAn.IPL",
+        "hash": "a9d39079a8296eb13e2320a4af88becde0cedadbaa65174edf950e47bd6e95e8",
+        "size": 44537
+    },
+    {
+        "file": "data/maps/leveldes/leveldes.ide",
+        "hash": "5c4cda0261a8302acd997679b3bbe604754423a7b0ce30707bfb81d7f1d569d4",
+        "size": 360
+    },
+    {
+        "file": "data/maps/leveldes/leveldes.ipl",
+        "hash": "a023d0150ceb2b0d571901ca1d22a2a1377337ac874d593a574eb7426bed65f2",
+        "size": 165
+    },
+    {
+        "file": "data/maps/leveldes/levelmap.ide",
+        "hash": "c5d635c1ebd2fdd9f85c990dcf51e37f73ad8bc2e759dd5daa8ab13f45dad74d",
+        "size": 3194
+    },
+    {
+        "file": "data/maps/leveldes/levelmap.ipl",
+        "hash": "27cb191f631269b0a8e86890b064630674e1e9064ef72907c42ea2431c0f4cf2",
+        "size": 154
+    },
+    {
+        "file": "data/maps/leveldes/levelxre.IDE",
+        "hash": "2000bd5c85ca56bfb7be66e55b92f4fde347d4068262238ad1710e03c47eb3eb",
+        "size": 9901
+    },
+    {
+        "file": "data/maps/leveldes/seabed - ¬«»¿∩.ipl",
+        "hash": "e6a7f7e037ab177a9949517931d4fa88b8b975a9b053863970269d2b745b909a",
+        "size": 33482
+    },
+    {
+        "file": "data/maps/leveldes/seabed.ide",
+        "hash": "5c57137733b59ec7455e821947c9fa5fb1051f69c9499a2c916ef72b77e01256",
+        "size": 12039
+    },
+    {
+        "file": "data/maps/leveldes/seabed.ipl",
+        "hash": "05e0b472cf72c469fffabdf4b02be51665309b3638dadf669cff9809f3c5c43a",
+        "size": 34128
+    },
+    {
+        "file": "data/maps/LIBERTY/china_1.IPL",
+        "hash": "66e25b9f902ed8ce4954eadec16061cb889ac1319d1cd482b2503e5db793c665",
+        "size": 23642
+    },
+    {
+        "file": "data/maps/LIBERTY/china_2.IPL",
+        "hash": "4b87eafa2eedf1a89fe39074b7abe3a73090608abfd7bd1a6e5039be655a3c2a",
+        "size": 33784
+    },
+    {
+        "file": "data/maps/LIBERTY/empty.IPL",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+    },
+    {
+        "file": "data/maps/LIBERTY/heig.IPL",
+        "hash": "8c73f756ce21bd113790b72ef3087bbfb61597c9a2c40c6f24ee0f1acb65edd8",
+        "size": 52
+    },
+    {
+        "file": "data/maps/LIBERTY/è«»¿∩ china_1.IPL",
+        "hash": "964467aca09487c0086a1e8959d5600299d5214cfa1f441bc45ebdce090bcdf3",
+        "size": 18541
+    },
+    {
+        "file": "data/maps/LIBERTY/è«»¿∩ china_2.IPL",
+        "hash": "ddc6df00360092013bcb31dd1b74e6ba8d70b8cadc44c53aa7094cab48411fe0",
+        "size": 26220
+    },
+    {
+        "file": "data/maps/LIBERTY/è«»¿∩ ind_1.IPL",
+        "hash": "bfe6482f1e6599c6a00c0b02750a56ff57318e5d46919a0bc1e5878259760328",
+        "size": 16060
+    },
+    {
+        "file": "data/maps/LIBERTY/è«»¿∩ p_view1.IPL",
+        "hash": "7873ead45b97d12a2575f3eab1533c5d78e501e4e55ba8ef0edbfe3e5237fb9e",
+        "size": 13549
+    },
+    {
+        "file": "data/maps/LIBERTY/è«»¿∩ red_l.IPL",
+        "hash": "cb77a8f947a7c946936e90e82c9733a81f7a906d8bc14bbb81af76f4e84d727a",
+        "size": 30850
+    },
+    {
+        "file": "data/maps/LIBERTY/è«»¿∩ saint2.IPL",
+        "hash": "8a493759ea1d134e10f45799a30d59cc430bd19aae383c23d396f5a8eb61657f",
+        "size": 16097
+    },
+    {
+        "file": "data/maps/LIBERTY/è«»¿∩ saint3.IPL",
+        "hash": "f0512d5c118270c7e0ce1ab39cdb2b152df5c1dbc6a75095fbe03f431757c2ca",
+        "size": 25443
+    },
+    {
+        "file": "data/maps/LIBERTY/è«»¿∩ saint4.IPL",
+        "hash": "35acdeeecf93d3b89c262b0b27e81ce9e0da754a16cc04f4190a86a2766445cb",
+        "size": 20916
+    },
+    {
+        "file": "data/maps/LIBERTY/è«»¿∩ saint_m.IPL",
+        "hash": "13cc3ac9a195f54fe3a99f60724cc3dc31fac2c02ff329cafefd48486df37594",
+        "size": 16125
+    },
+    {
+        "file": "data/maps/mainland/Airport.ide",
+        "hash": "48890a38f356d3fb86da78b3f7ea2a3152eb8f3f7c0f41b132f80672b7d27aae",
+        "size": 6703
+    },
+    {
+        "file": "data/maps/mainland/Airport.ipl",
+        "hash": "908723d2cafe8c053124423d0705db6662ee3e4cdd3427b37ab6c60f180ca22b",
+        "size": 12550
+    },
+    {
+        "file": "data/maps/mainland/Airportn.ide",
+        "hash": "a5a46cc0e5a995f133f426754054e56c8065e0a24edcd049f4b8b85ffda41f2c",
+        "size": 3379
+    },
+    {
+        "file": "data/maps/mainland/Airportn.ipl",
+        "hash": "1a5a2245170a80933788ff28676db549c750803a0f15d42c05e793811a40c833",
+        "size": 5944
+    },
+    {
+        "file": "data/maps/mainland/Docks.ide",
+        "hash": "44fa839b1d0b91702fc69404f6a89cb49e1b959c78c21c8eea7f05964086df97",
+        "size": 5693
+    },
+    {
+        "file": "data/maps/mainland/Docks.ipl",
+        "hash": "df7802a61fb6ca0576d0736a13219eb5f206eb84e49850b18ab2104ab375d929",
+        "size": 11534
+    },
+    {
+        "file": "data/maps/mainland/Downtown.ide",
+        "hash": "2de780ba1f9821af3d9af302e63adf9b6783db4058c931cf2d3a04e492ee5055",
+        "size": 6566
+    },
+    {
+        "file": "data/maps/mainland/Downtown.ipl",
+        "hash": "765176cc1432af4d8ccfa9dde245d0265eef90de712a6a41d1287793b48c0367",
+        "size": 10939
+    },
+    {
+        "file": "data/maps/mainland/Downtows.ide",
+        "hash": "4198f0d0138ec2034b88dbfa174fdfa879758b6d837bf5e57f4f13f3c7e16ae0",
+        "size": 3802
+    },
+    {
+        "file": "data/maps/mainland/Downtows.ipl",
+        "hash": "bdb93dca918f1202b981f988eb6906f2fd78adc5939e370e6c9dd9a7126fc852",
+        "size": 6333
+    },
+    {
+        "file": "data/maps/mainland/Haiti.ide",
+        "hash": "afa4cf1d3949040390472592b0f4bab5a47c6005b00d3df1bef139ca6df1d63d",
+        "size": 3319
+    },
+    {
+        "file": "data/maps/mainland/Haiti.ipl",
+        "hash": "33c9594af7119c68227742dc6039a867189a65690d3006b4a1c9c7b928ebe790",
+        "size": 6246
+    },
+    {
+        "file": "data/maps/mainland/Haitin.ide",
+        "hash": "0d45a8d9e0200c4d422292f43ce0c7634dfc567d88d6bda2d11e72619fef1bc9",
+        "size": 3351
+    },
+    {
+        "file": "data/maps/mainland/Haitin.ipl",
+        "hash": "19e087b16dd7ba17f491bdddea47880ff561ee8c8de9d5fea42b2f6d1df3a2e5",
+        "size": 6123
+    },
+    {
+        "file": "data/maps/mainland/Littleha.ide",
+        "hash": "0dfe4771c3e09d404c1b374186c58f2eeaf786befbad9818059f0223de569807",
+        "size": 8006
+    },
+    {
+        "file": "data/maps/mainland/Littleha.ipl",
+        "hash": "f624553acab88b46615f490f2745a6d85e40cfac2f4255ced24bff49ae413d3b",
+        "size": 14144
+    },
+    {
+        "file": "data/maps/MOTOR/d_towns.IPL",
+        "hash": "c6eb0483f3608009c3ae060e3c55e1a083a910e86afaba0806f41bac071c4c34",
+        "size": 85825
+    },
+    {
+        "file": "data/maps/MOTOR/empty.IPL",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+    },
+    {
+        "file": "data/maps/MOTOR/mct_1 - ¬«»¿∩.IPL",
+        "hash": "9be60f5ff378fb26813d760fc9b33482f25b193405efea548966ebf112b6366d",
+        "size": 67917
+    },
+    {
+        "file": "data/maps/M_CITY/docks_1 - ¬«»¿∩.IPL",
+        "hash": "2b6ec3dc6864d9ab9aad7a9a6fa7a44c5180966b9935eeef94b6c216d6bcc27a",
+        "size": 68050
+    },
+    {
+        "file": "data/maps/M_CITY/docks_1.IPL",
+        "hash": "b5aea18d57c347c4339532afce137819320e2e45414679a3baedb9616d322336",
+        "size": 69215
+    },
+    {
+        "file": "data/maps/M_CITY/d_towns - ¬«»¿∩.IPL",
+        "hash": "c6eb0483f3608009c3ae060e3c55e1a083a910e86afaba0806f41bac071c4c34",
+        "size": 85825
+    },
+    {
+        "file": "data/maps/M_CITY/d_towns.IPL",
+        "hash": "4d11448c35f4c04ea3982a46886b008de1b86a8e7828a36f3830e5a54ab00ca9",
+        "size": 90562
+    },
+    {
+        "file": "data/maps/M_CITY/d_townw - ¬«»¿∩.IPL",
+        "hash": "9ad1dd33307f8ad635a43c47271138cf99a2d401dc80aa2c9fa38a70a8b869cd",
+        "size": 231890
+    },
+    {
+        "file": "data/maps/M_CITY/empty.IPL",
+        "hash": "661a32aa4fdfad6f98a67a289d0f747bb84b10c581dd4e8649a9edca68f5e612",
+        "size": 1382
+    },
+    {
+        "file": "data/maps/M_CITY/harlem - ¬«»¿∩.IPL",
+        "hash": "faf3953aae425f350f1776e63d4a2f7a739633000392a8bffd186b4337b6b757",
+        "size": 95228
+    },
+    {
+        "file": "data/maps/M_CITY/harlem.IPL",
+        "hash": "2fa41ae8b95b0f7d41e55a44950755bbd335d9b6c35585e81fce71f2962d5e2f",
+        "size": 114560
+    },
+    {
+        "file": "data/maps/M_CITY/italy.IPL",
+        "hash": "c5995128392a5873ffe5e41ed022091e2e9d4c95e73877e8040102ec1f53f8cf",
+        "size": 89737
+    },
+    {
+        "file": "data/maps/M_CITY/italy_2 - ¬«»¿∩.IPL",
+        "hash": "dcb9d7b67b23c6686cdc2a1c163fcc779b6b4abad75a1cafa10a883876164e9c",
+        "size": 68265
+    },
+    {
+        "file": "data/maps/M_CITY/italy_2.IPL",
+        "hash": "f515d9ee476c650903390a17daad583f8a787ec08b93959e18f2a6d9498ad479",
+        "size": 73789
+    },
+    {
+        "file": "data/maps/M_CITY/italy__.IPL",
+        "hash": "db72865de9cf70789a2930cf8f1fff21422a98181e465ded8056002ed51f395e",
+        "size": 74275
+    },
+    {
+        "file": "data/maps/M_CITY/kings.IPL",
+        "hash": "d90552017c861e341da19dbd023542e283828abba8ce6ea21ecef01071f22eea",
+        "size": 127022
+    },
+    {
+        "file": "data/maps/PORTLAND/EMPTY.IPL",
+        "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+        "size": 2
+    },
+    {
+        "file": "data/maps/PORTLAND/portland_1.IPL",
+        "hash": "ae95d062c46a00ed07a6a1d3407548834ccd928a1e83f87d8b66b7f962436abe",
+        "size": 35535
+    },
+    {
+        "file": "data/maps/PORTLAND/portland_2.IPL",
+        "hash": "4d7dbf7f78e47334dbbcdfe5e02d3244063a949c8e0a174a2c93b348de0d61c1",
+        "size": 15233
+    },
+    {
+        "file": "data/maps/PORTLAND/portland_3.IPL",
+        "hash": "12ffb25ca88395846bf9ce3d8766959347f0cd1940b0d1307e8bc9abc2b49dfc",
+        "size": 28350
+    },
+    {
+        "file": "data/maps/PORTLAND/portland_4.IPL",
+        "hash": "553ee0327a65de7dc15c27bd98d5a2f94caa4647167595689db179c2866f6044",
+        "size": 48878
+    },
+    {
+        "file": "data/maps/PORTLAND/portland_5.IPL",
+        "hash": "edf2f894ea18c9abecbd0e2573869bc53089b5e904147fe5c2756a388fd6df50",
+        "size": 19914
+    },
+    {
+        "file": "data/maps/PORTLAND/portland_6.IPL",
+        "hash": "316a4b70a67dc7b80c90a7a9e0130887e56eaa5e39789a2daf000a1a724da976",
+        "size": 52118
+    },
+    {
+        "file": "data/maps/PORTLAND/port_add.IPL",
+        "hash": "d7e4654a692d1ebea26f66f0cf1f887a134c65ab2c3315a4d11011ca988fdca9",
+        "size": 7126
+    },
+    {
+        "file": "data/maps/PORTLAND/veg_add.IPL",
+        "hash": "e0050620b50fa1f4e85fea8b24824b289199220a02163b15589bff45abd52c99",
+        "size": 12193
+    },
+    {
+        "file": "data/maps/PORTLAND/è«»¿∩ (2) portland_6.IPL",
+        "hash": "90d43c35b901c9229cd3a4ec74cf98438a4e39e79f6d1e9a24ca85d416e0646e",
+        "size": 29326
+    },
+    {
+        "file": "data/maps/PORTLAND/è«»¿∩ portland_1.IPL",
+        "hash": "4fbeff988f164ded51b89f62637d5d6bcb0cc1fae47ebf074ceedc2e64cafb25",
+        "size": 23112
+    },
+    {
+        "file": "data/maps/PORTLAND/è«»¿∩ portland_2.IPL",
+        "hash": "0f1ec46a5edbc60eb2f8fc3bad8db11afc4d447e6dc6a37c362473a2357bdeda",
+        "size": 9005
+    },
+    {
+        "file": "data/maps/PORTLAND/è«»¿∩ portland_3.IPL",
+        "hash": "9284a7f22bc8d7e8b4049d2a02824975520e406f4b73cbabcb119435059dad03",
+        "size": 17272
+    },
+    {
+        "file": "data/maps/PORTLAND/è«»¿∩ portland_4.IPL",
+        "hash": "374861b29c5401748b44cf00cfba4493fddf13743bd065532715f9ed2312653c",
+        "size": 26338
+    },
+    {
+        "file": "data/maps/PORTLAND/è«»¿∩ portland_5.IPL",
+        "hash": "20553a445f3ef6cdbc69571128888f465a30f0bc57fa5b24724aa4273ca506ab",
+        "size": 13438
+    },
+    {
+        "file": "data/maps/PORTLAND/è«»¿∩ portland_6.IPL",
+        "hash": "6d89631f1c238ca13dbdc9ff3e0a4751565664c1c949423fa1eb1eadcc907088",
+        "size": 28328
+    },
+    {
+        "file": "data/maps/PORTLAND1/EMPTY.IPL",
+        "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+        "size": 2
+    },
+    {
+        "file": "data/maps/PORTLAND1/portland_1.IPL",
+        "hash": "08ca530436c7a6ce4a5c319cf3eeb96601276b82c869f7bc7e67df31c7151a6d",
+        "size": 35358
+    },
+    {
+        "file": "data/maps/PORTLAND1/portland_2.IPL",
+        "hash": "7087b4446a4215b8a419922c23dec7914823fafa48565ce7107d1184c44e337e",
+        "size": 15238
+    },
+    {
+        "file": "data/maps/PORTLAND1/portland_3.IPL",
+        "hash": "d959863349a1ad46767629006960752dd69b76c4d1895b8a12490389b1cb860b",
+        "size": 28332
+    },
+    {
+        "file": "data/maps/PORTLAND1/portland_4.IPL",
+        "hash": "b23147c468f504ee6bf6a7583f2f5490c8f52f19752a8fd94629f849ce912db9",
+        "size": 48897
+    },
+    {
+        "file": "data/maps/PORTLAND1/portland_5.IPL",
+        "hash": "338a263c18b41a0ca36cbc2379e856e90a1ccdcaab71642bc8a8327b27e69499",
+        "size": 19910
+    },
+    {
+        "file": "data/maps/PORTLAND1/portland_6.IPL",
+        "hash": "316dbed68163bebb888cc8b15dd048e42afd044590a352ebc34d813779305ccb",
+        "size": 50138
+    },
+    {
+        "file": "data/maps/PORTLAND1/port_add.IPL",
+        "hash": "d7e4654a692d1ebea26f66f0cf1f887a134c65ab2c3315a4d11011ca988fdca9",
+        "size": 7126
+    },
+    {
+        "file": "data/maps/PORTLAND1/veg_add.IPL",
+        "hash": "e0050620b50fa1f4e85fea8b24824b289199220a02163b15589bff45abd52c99",
+        "size": 12193
+    },
+    {
+        "file": "data/maps/PORTLAND1/è«»¿∩ portland_1.IPL",
+        "hash": "4fbeff988f164ded51b89f62637d5d6bcb0cc1fae47ebf074ceedc2e64cafb25",
+        "size": 23112
+    },
+    {
+        "file": "data/maps/PORTLAND1/è«»¿∩ portland_2.IPL",
+        "hash": "0f1ec46a5edbc60eb2f8fc3bad8db11afc4d447e6dc6a37c362473a2357bdeda",
+        "size": 9005
+    },
+    {
+        "file": "data/maps/PORTLAND1/è«»¿∩ portland_3.IPL",
+        "hash": "9284a7f22bc8d7e8b4049d2a02824975520e406f4b73cbabcb119435059dad03",
+        "size": 17272
+    },
+    {
+        "file": "data/maps/PORTLAND1/è«»¿∩ portland_4.IPL",
+        "hash": "374861b29c5401748b44cf00cfba4493fddf13743bd065532715f9ed2312653c",
+        "size": 26338
+    },
+    {
+        "file": "data/maps/PORTLAND1/è«»¿∩ portland_5.IPL",
+        "hash": "20553a445f3ef6cdbc69571128888f465a30f0bc57fa5b24724aa4273ca506ab",
+        "size": 13438
+    },
+    {
+        "file": "data/maps/PORTLAND1/è«»¿∩ portland_6.IPL",
+        "hash": "6d89631f1c238ca13dbdc9ff3e0a4751565664c1c949423fa1eb1eadcc907088",
+        "size": 28328
+    },
+    {
+        "file": "data/maps/sabway/sabway.ide",
+        "hash": "9d2c2c78fda8f0d217bda24df887d7406286ecec4b71b6cf3578c5fd1cffec68",
+        "size": 96
+    },
+    {
+        "file": "data/maps/sabway/sabway.IPL",
+        "hash": "c8f40acd83a393add03b32cff91a2a5cf9a4203eaf8fbe9d2c1552f0c33dad3f",
+        "size": 2637
+    },
+    {
+        "file": "data/maps/SF/SFe.ide",
+        "hash": "96fe8a76d0da486a739ec3f20c58ceda11cd20777eed200b8a10df7bb5f34528",
+        "size": 16224
+    },
+    {
+        "file": "data/maps/SF/SFe.ipl",
+        "hash": "0b8bb34c554b247c8aed8e309b710be27bcee66ca029323215ed6efe10eedd1c",
+        "size": 26707
+    },
+    {
+        "file": "data/maps/SF/SFn.ide",
+        "hash": "e54fe3b0043d8265c8c4d130c0d9fcf16ada6f02a1d5063e82097b6e042fbe55",
+        "size": 11219
+    },
+    {
+        "file": "data/maps/SF/SFn.ipl",
+        "hash": "cc169fe857e1da974d3605ba112452d7de0832455582e317d75ff8619fd4f73a",
+        "size": 26201
+    },
+    {
+        "file": "data/maps/SF/SFs.ide",
+        "hash": "5a7a642e48f68018626aac64aa47627fd4ae75d7c535a2bb86449e78c6565e53",
+        "size": 18948
+    },
+    {
+        "file": "data/maps/SF/SFs.ipl",
+        "hash": "c0e6be2722cde673af3e20d827fd16d145d0a6e21fac80644aef01c2610357f3",
+        "size": 37969
+    },
+    {
+        "file": "data/maps/SF/SFSe.ide",
+        "hash": "9dcb6531a47753c918eefc009a741339b22dc47d2aec9f965aab04f9fa4a9d34",
+        "size": 30227
+    },
+    {
+        "file": "data/maps/SF/SFSe.ipl",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
+    },
+    {
+        "file": "data/maps/SF/SFw.ide",
+        "hash": "9b2cea3761c5f95326d77c8989cf0f14f0755c483f667819e01e32f7733b0d0e",
+        "size": 16473
+    },
+    {
+        "file": "data/maps/SF/SFw.ipl",
+        "hash": "b9da860c8d35d2326c2f6fdaf4bc49f16f5b2844256ba3b0d0541bdfacce8e69",
+        "size": 29247
+    },
+    {
+        "file": "data/maps/SF/SFxref.ide",
+        "hash": "efdbdbfff67a9b8a71d4b8b250505911966708e15a3627fa8550a7063085de00",
+        "size": 4631
+    },
+    {
+        "file": "data/maps/startland/automspr.IPL",
+        "hash": "67f80faa627f4b927e245d30e4c82b4263020b43252d662da9e25e1ad74ebd65",
+        "size": 38729
+    },
+    {
+        "file": "data/maps/startland/startland.IDE",
+        "hash": "38a6a39775770b9921bff56ebc26a2ab8f7683a130ceabb5d00d6a16c43aa6b1",
+        "size": 6468
+    },
+    {
+        "file": "data/maps/startland/startland.IPL",
+        "hash": "51cf801ce749821c014de9164905d0040302f95ef523bbac46139d42e7dc0932",
+        "size": 328167
+    },
+    {
+        "file": "data/maps/startland2/automspr2.IPL",
+        "hash": "64dbc97bb72a030c0a4a724c7426077ad6224bccf3abd39ba0677e44f8d42ff2",
+        "size": 45825
+    },
+    {
+        "file": "data/maps/startland2/startland2.IDE",
+        "hash": "4157fac7a082b4ac4a845f99d401a9cd10275a525ca91a1fdf5194277276ae8a",
+        "size": 7536
+    },
+    {
+        "file": "data/maps/startland2/startland2.IPL",
+        "hash": "b79114e2e0620ca8a4df2f9ad6632e3f03b1c786b5fe62d153e512ae4ea447d0",
+        "size": 341214
+    },
+    {
+        "file": "data/maps/startland3/automspr3.IPL",
+        "hash": "2f2b8b89efe3c7d763180fabcf0585e1d999cd09885a540b827fbd80df338ff3",
+        "size": 48587
+    },
+    {
+        "file": "data/maps/startland3/startland3.IDE",
+        "hash": "2f8da3ee75a5497c47a3b1c3111706dfa098dca1a2a567b01b421e46602df655",
+        "size": 5963
+    },
+    {
+        "file": "data/maps/startland3/startland3.IPL",
+        "hash": "e2c3997c2555d18410b08cf8e206c2fb1cbdb7384c6d48b95b7717cec1b67d7b",
+        "size": 239326
+    },
+    {
+        "file": "data/maps/startland4/automspr4.IPL",
+        "hash": "bdbf17f12892f4d08863b1d6aa23d0b5cfb27b40b88f63c06a56aea0a6c69f30",
+        "size": 813
+    },
+    {
+        "file": "data/maps/startland4/startland4.IDE",
+        "hash": "43f3dfece97e9e7c7fe1e5c2115fc94ed2ae1169a29262e50c304c448cd5d75f",
+        "size": 1280
+    },
+    {
+        "file": "data/maps/startland4/startland4.IPL",
+        "hash": "d4c6558ca1d2f45cdd0cab92fbd7a7f82adc6b60b1b90ea1a92c69559fc1ef9b",
+        "size": 48849
+    },
+    {
+        "file": "data/maps/STAUNTON/staunton_1.IPL",
+        "hash": "164806368227cb62ecf6e945470a9044a57a629192800ea0f8c0db368eb32a96",
+        "size": 37840
+    },
+    {
+        "file": "data/maps/STAUNTON/è«»¿∩ staunton_1.IPL",
+        "hash": "30ac8913c2cb36513d7f44977c5abec0a2c717ba7d7679270b3c5711efa5aecb",
+        "size": 20572
+    },
+    {
+        "file": "data/maps/vegas/vegasE.ide",
+        "hash": "935beec9b991b0c5a041d921cce861693c288fc14ea056657071d37881f670a6",
+        "size": 66
+    },
+    {
+        "file": "data/maps/vegas/vegasE.ipl",
+        "hash": "7a9df8dc6ea29cfbc8fd62888ec53b7358160189b4de55b19a379a867db2c401",
+        "size": 152
+    },
+    {
+        "file": "data/maps/vegas/VegasN.ide",
+        "hash": "2578d0fad525ffceadc57cb379333ef568a3c3f283d70a9ae36cec8246179da8",
+        "size": 64
+    },
+    {
+        "file": "data/maps/vegas/vegasN.ipl",
+        "hash": "fb276dd5c80713b4e3397dd7bedf3cf2149126d4cc8c886e4165016ad17ef08a",
+        "size": 156
+    },
+    {
+        "file": "data/maps/vegas/VegasS.ide",
+        "hash": "2578d0fad525ffceadc57cb379333ef568a3c3f283d70a9ae36cec8246179da8",
+        "size": 64
+    },
+    {
+        "file": "data/maps/vegas/vegasS.ipl",
+        "hash": "fb276dd5c80713b4e3397dd7bedf3cf2149126d4cc8c886e4165016ad17ef08a",
+        "size": 156
+    },
+    {
+        "file": "data/maps/vegas/VegasW.ide",
+        "hash": "2578d0fad525ffceadc57cb379333ef568a3c3f283d70a9ae36cec8246179da8",
+        "size": 64
+    },
+    {
+        "file": "data/maps/vegas/vegasW.ipl",
+        "hash": "d77fa872844c9a4b2b8bbb6ba13c9db9eb36894d814b882eaa806e120af3e596",
+        "size": 154
+    },
+    {
+        "file": "data/maps/vegas/vegaxref.ide",
+        "hash": "2578d0fad525ffceadc57cb379333ef568a3c3f283d70a9ae36cec8246179da8",
+        "size": 64
+    },
+    {
+        "file": "data/maps/vegas/vegaxref.ipl",
+        "hash": "d77fa872844c9a4b2b8bbb6ba13c9db9eb36894d814b882eaa806e120af3e596",
+        "size": 154
+    },
+    {
+        "file": "data/maps/veh_mods/veh_mods.ide",
+        "hash": "0338813d49e3c1d92d7f660357d0ab6a6778e65a2e05b0c9cb1f99ffd29c3edc",
+        "size": 7323
+    },
+    {
+        "file": "data/maps/è«»¿∩ PORTLAND/EMPTY.IPL",
+        "hash": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+        "size": 2
+    },
+    {
+        "file": "data/maps/è«»¿∩ PORTLAND/portland_1.IPL",
+        "hash": "9c3c085420da32072ee5ef773d8c05b997b11f224f39ed51bffefebff19ec233",
+        "size": 35357
+    },
+    {
+        "file": "data/maps/è«»¿∩ PORTLAND/portland_2.IPL",
+        "hash": "54de28031e016982607681fcfdc1aebc78a5e852c3eb3201c41da0bf3af9ba27",
+        "size": 15233
+    },
+    {
+        "file": "data/maps/è«»¿∩ PORTLAND/portland_3.IPL",
+        "hash": "0c21dedcf0666fbef1663f11d750f5ade445d892055944e814be8447a3317ddd",
+        "size": 28370
+    },
+    {
+        "file": "data/maps/è«»¿∩ PORTLAND/portland_4.IPL",
+        "hash": "b8a994432b07328d20d615d3f287238da20b512a0774be0bc45011da5d8558c3",
+        "size": 48878
+    },
+    {
+        "file": "data/maps/è«»¿∩ PORTLAND/portland_5.IPL",
+        "hash": "07c79d6e2dc507605a28de5e854b948c677b8a8197f16092a9dd89f5040c0271",
+        "size": 19908
+    },
+    {
+        "file": "data/maps/è«»¿∩ PORTLAND/portland_6.IPL",
+        "hash": "99fe3b4caeb088a428976853fa49db03ea0ca008faa465464d57b27fb6ac6a7a",
+        "size": 50117
+    },
+    {
+        "file": "data/maps/è«»¿∩ PORTLAND/port_add.IPL",
+        "hash": "d7e4654a692d1ebea26f66f0cf1f887a134c65ab2c3315a4d11011ca988fdca9",
+        "size": 7126
+    },
+    {
+        "file": "data/maps/è«»¿∩ PORTLAND/veg_add.IPL",
+        "hash": "e0050620b50fa1f4e85fea8b24824b289199220a02163b15589bff45abd52c99",
+        "size": 12193
+    },
+    {
+        "file": "data/maps/è«»¿∩ PORTLAND/è«»¿∩ portland_1.IPL",
+        "hash": "4fbeff988f164ded51b89f62637d5d6bcb0cc1fae47ebf074ceedc2e64cafb25",
+        "size": 23112
+    },
+    {
+        "file": "data/maps/è«»¿∩ PORTLAND/è«»¿∩ portland_2.IPL",
+        "hash": "0f1ec46a5edbc60eb2f8fc3bad8db11afc4d447e6dc6a37c362473a2357bdeda",
+        "size": 9005
+    },
+    {
+        "file": "data/maps/è«»¿∩ PORTLAND/è«»¿∩ portland_3.IPL",
+        "hash": "9284a7f22bc8d7e8b4049d2a02824975520e406f4b73cbabcb119435059dad03",
+        "size": 17272
+    },
+    {
+        "file": "data/maps/è«»¿∩ PORTLAND/è«»¿∩ portland_4.IPL",
+        "hash": "374861b29c5401748b44cf00cfba4493fddf13743bd065532715f9ed2312653c",
+        "size": 26338
+    },
+    {
+        "file": "data/maps/è«»¿∩ PORTLAND/è«»¿∩ portland_5.IPL",
+        "hash": "20553a445f3ef6cdbc69571128888f465a30f0bc57fa5b24724aa4273ca506ab",
+        "size": 13438
+    },
+    {
+        "file": "data/maps/è«»¿∩ PORTLAND/è«»¿∩ portland_6.IPL",
+        "hash": "6d89631f1c238ca13dbdc9ff3e0a4751565664c1c949423fa1eb1eadcc907088",
+        "size": 28328
+    },
+    {
+        "file": "data/paths/carrec.img",
+        "hash": "207d3d1cbcf07744dd6b3110d977d3838e53970d785e465dcada3dee5e08c522",
+        "size": 2357248
+    },
+    {
+        "file": "data/paths/ROADBLOX.DAT",
+        "hash": "2da412adc28eefd4b406df53e0ab2693eb564d8dfeb73f31ca771022280342ef",
+        "size": 1304
+    },
+    {
+        "file": "data/paths/tracks.dat",
+        "hash": "9f3509865baa1424cedce8c9185f93bf575eb1d6cb2e114f1c704f07f92d0f55",
+        "size": 25474
+    },
+    {
+        "file": "data/paths/tracks2.dat",
+        "hash": "f30af4dd0b7948321db633d4964898961b4ae97f5c29b6ca1cdcb9b77e6f4985",
+        "size": 1892
+    },
+    {
+        "file": "data/paths/tracks3.dat",
+        "hash": "b8ed468ae2aa953250f5f9bcf1ff34ec7a413cfca63357a6a531f37dfb9b5767",
+        "size": 8328
+    },
+    {
+        "file": "data/paths/tracks4.dat",
+        "hash": "e8decea200f701498cf1414a4d6accb1dc6fdeb147ac30cd3500e0ae27cdcd69",
+        "size": 18347
+    },
+    {
+        "file": "data/script/mainv1.scm",
+        "hash": "0da4941df1e981e8011d81e99824d59276e64294c50d2e8a1409f6e0a458f3ad",
+        "size": 18398
+    },
+    {
+        "file": "data/script/mainv1.txt",
+        "hash": "95b65a0c0af2f4941bef0df2395bdbf93c4a8f61bb8ef05b629f438baeebc0e5",
+        "size": 3690
+    },
+    {
+        "file": "data/script/scriptv1.img",
+        "hash": "99053a8ebc73015ca554f20e74f46b910a356049c2ec624afbcae8607add211d",
+        "size": 4096
+    },
+    {
+        "file": "loader/blackrussia_client.log",
+        "hash": "a73287e47d555d5428850f6dbbf536661be0923015185d9fd3780430f751a289",
+        "size": 142137
+    },
+    {
+        "file": "loader/reytiz.sys",
+        "hash": "e4f2c8ba2e16fe6db39bedadbb4557a47b4b0daffd050c77f54374c59bb42432",
+        "size": 115096
+    },
+    {
+        "file": "loader/alpha/afternoon_sky_1.png",
+        "hash": "3a25364c21be7111e660159421822c9bc794aec6526b4f18288c2f65849df25e",
+        "size": 1754614
+    },
+    {
+        "file": "loader/alpha/daily_sky_1.png",
+        "hash": "0017753165d4ab2b1e5c1b1ac23817c9de206158494ac9e069ffe6d17109317a",
+        "size": 3199598
+    },
+    {
+        "file": "loader/alpha/evening_sky_1.png",
+        "hash": "564b477551cce0ef0eb89ff78d9172a589d03416c63569bd0e4f3c5472ee6c32",
+        "size": 1874503
+    },
+    {
+        "file": "loader/alpha/night_sky_1.png",
+        "hash": "320426634f8a8ed114ccfdd0ea25cf787b122719eb1f4e0f2c8ad37ca4552e88",
+        "size": 1592554
+    },
+    {
+        "file": "models/effects.fxp",
+        "hash": "adffc03b1925736c3ece21bf178cfd0fe008a151dcb7a9c522a8adbba6022575",
+        "size": 646499
+    },
+    {
+        "file": "models/particle.txd",
+        "hash": "835ef4dba2e55b3ce4358b3ad12977048eb3189aff44ae6ccb3ba51dc09624af",
+        "size": 593192
+    },
+    {
+        "file": "models/coll/peds.col",
+        "hash": "d6faa88b9227e6f6fe286f69cfd8d7348229bda267b21125b7daea4d3dd23d10",
+        "size": 21477
+    },
+    {
+        "file": "models/coll/vehicles.col",
+        "hash": "4b6fa3aacf7d8be7aabf2e7048b5d7bd9bc89991b13f4f3d7334047a4f5359cf",
+        "size": 1096
+    },
+    {
+        "file": "models/coll/weapons.col",
+        "hash": "389a5656e0496486e1c546e1e8ffd5399c1563c717f8238dcfdee3b6756903e6",
+        "size": 560
+    },
+    {
+        "file": "SAMP/carcols.dat",
+        "hash": "948c63cbbc08a8bad6fd1d6b073ab8aee91d6d1d49cc08c427c68299bed905f7",
+        "size": 15337
+    },
+    {
+        "file": "SAMP/carmods.dat",
+        "hash": "674cd3e5e0f5393bbe5323b053efb57e9b3c67d37694a911ff065d7a7f1967f2",
+        "size": 8763
+    },
+    {
+        "file": "SAMP/crash_log.log",
+        "hash": "9ec5b9036cba5d97af4f91d9775c782719c677219ffe935bfdbac1a093788783",
+        "size": 68811
+    },
+    {
+        "file": "SAMP/default.ide",
+        "hash": "3aea4d74891f77602e1e7e32e3dfd6716fcccf257e87f7ab43c57f64339ff8c2",
+        "size": 4679
+    },
+    {
+        "file": "SAMP/gta.dat",
+        "hash": "cf270b7f5b2fa949c275e8b9a60f93cd6ccf1b03752dbbb08ce824d4d460766c",
+        "size": 1556
+    },
+    {
+        "file": "SAMP/handling.cfg",
+        "hash": "4c0b63a5f6dd328d698781a92667b98c6e2e62423ab7827a9d7205dd89fff07c",
+        "size": 57853
+    },
+    {
+        "file": "SAMP/main.scm",
+        "hash": "0da4941df1e981e8011d81e99824d59276e64294c50d2e8a1409f6e0a458f3ad",
+        "size": 18398
+    },
+    {
+        "file": "SAMP/object.dat",
+        "hash": "c963c980d90891cbb4ab81a6a8daa294a5813cba46fae4b1302951c32ca472d8",
+        "size": 126118
+    },
+    {
+        "file": "SAMP/peds.ide",
+        "hash": "ec16c488c40f2c563c475130eb7ef633a024ac6bc0f01e8bfb248972a241af92",
+        "size": 33401
+    },
+    {
+        "file": "SAMP/popcycle.dat",
+        "hash": "82b3b05d6bc67c3abec9d12770ebfdbd26f99cb564901f455822b9697df25fc9",
+        "size": 120836
+    },
+    {
+        "file": "SAMP/reytiz.dat",
+        "hash": "e4f2c8ba2e16fe6db39bedadbb4557a47b4b0daffd050c77f54374c59bb42432",
+        "size": 115096
+    },
+    {
+        "file": "SAMP/SAMP.ide",
+        "hash": "b633bbdd30014b4d9b684e1f2bb595e1fcec271d43eaad4de6579424916ca1b6",
+        "size": 89262
+    },
+    {
+        "file": "SAMP/samp_log.txt",
+        "hash": "e4274a1470e925002ce9e0abbfe67ddc7d81330b23e61fe2c1608b40a392ea86",
+        "size": 10436742
+    },
+    {
+        "file": "SAMP/script.img",
+        "hash": "99053a8ebc73015ca554f20e74f46b910a356049c2ec624afbcae8607add211d",
+        "size": 4096
+    },
+    {
+        "file": "SAMP/settings.ini",
+        "hash": "91613f39b0126ae28d83e14accbf01a42d05460e18d8195325cfd9899a2406de",
+        "size": 1818
+    },
+    {
+        "file": "SAMP/surface.dat",
+        "hash": "09cf086c44c2409f6d5f40f58d7a753f0384d227b7f8c27fec7fe5dbe56c4a90",
+        "size": 576
+    },
+    {
+        "file": "SAMP/TIMECYC.DAT",
+        "hash": "0efce1a3d36aac22bf5276f65f7a8aa411ce34bdcbe5128cef4c800f82d5754b",
+        "size": 40037
+    },
+    {
+        "file": "SAMP/vehicleAudioSettings.cfg",
+        "hash": "1760ee06737821189d7848471446e431406b9193a17fb3ca440ff2dfcc90fdbc",
+        "size": 29064
+    },
+    {
+        "file": "SAMP/vehicles.ide",
+        "hash": "fd056f4f89f26a3ff3450016959b4786d9ab33efa4fd98dac8b3be83f2b5de10",
+        "size": 27916
+    },
+    {
+        "file": "SAMP/vehicles.idetest",
+        "hash": "f07c553e0d964bf3cd5fd1ce0e740f65cbc3c0e89e9f9057ae72e2162b8df69b",
+        "size": 21190
+    },
+    {
+        "file": "SAMP/weapon.dat",
+        "hash": "2d1882345168d3cfb8c8ba4065eea13ff08a05a0432d4f6ce0874110ea873b12",
+        "size": 11599
+    },
+    {
+        "file": "SAMP/fonts/arial.ttf",
+        "hash": "413c78f91bd39e134f3c0bb204b1d5a90f29df9efddc8fd26950a178058d5d74",
+        "size": 367112
+    },
+    {
+        "file": "SAMP/fonts/arial_bold.ttf",
+        "hash": "df70597f0bdf49da3af270138f8a34396e4f5618c671a1db3480e626f38aaece",
+        "size": 352224
+    },
+    {
+        "file": "SAMP/fonts/sampaux3.ttf",
+        "hash": "3adfe84498e8951e61ece57ad08de21b95d162697517291564ae6ef3a8790c1b",
+        "size": 11544
+    },
+    {
+        "file": "SAMP/plates/ru_font.ttf",
+        "hash": "3f4548e9f1764f95bf7507cff920d6d2a9b4b103b98feda4cecf964133018807",
+        "size": 233076
+    },
+    {
+        "file": "SAMP/plates/ua_font.ttf",
+        "hash": "a779505c100f727f55c7a49b271f2e7db60d737b98b9d2eeae0f0feb9250dc68",
+        "size": 233176
+    },
+    {
+        "file": "SAMP/sampvoice/svconfig.ini",
+        "hash": "13534a95a84f2a8eb6696fa29a28a6304fa43eb9c9b423e680fa30b02b19d28f",
+        "size": 138
+    },
+    {
+        "file": "texdb/cutscene.img",
+        "hash": "2c14266a47364899b654c224571773483b1127e878ca49a86662af59ee3edc3c",
+        "size": 16029696
+    },
+    {
+        "file": "texdb/gta3.img",
+        "hash": "50c76142ce3583f22b43dd8dbfe92a0d5cb54f449196dbc423060776a9dc6597",
+        "size": 816986112
+    },
+    {
+        "file": "texdb/gta_int.img",
+        "hash": "62d09fa6f311ca63211fa13892c24060daf8e4eaf99860193ce672b2e884e78e",
+        "size": 32276480
+    },
+    {
+        "file": "texdb/player.img",
+        "hash": "8283bef75a863a98198ad6b1e78b082efcbc46d4b5015a69e35c78f4500149df",
+        "size": 16412672
+    },
+    {
+        "file": "texdb/SAMP.ide",
+        "hash": "fca76e6d069b17180da068d8054b382c287bcb2aeac1d2ca8b990f104d265274",
+        "size": 87794
+    },
+    {
+        "file": "texdb/samp.img",
+        "hash": "b61fb2ba9d3aaf5c7ed91d4a5cde1d6de3f4b92546dc30bdff399bfa8817dd5d",
+        "size": 35186688
+    },
+    {
+        "file": "texdb/SAMP.ipl",
+        "hash": "a0c31a4593de2ffe6dc734eae06c3794dcec985f53a4e985f6b895789847a26d",
+        "size": 2291
+    },
+    {
+        "file": "texdb/SAMPCOL.img",
+        "hash": "aa6dabfb4b38e3b79949bbb3aa4f90c7e4fd3909feed37335b2d656e73089490",
+        "size": 3305472
+    },
+    {
+        "file": "texdb/cutscene/cutscene.dxt.dat",
+        "hash": "f48bd34c47a72ddf189c3334c8d56109cd8e06615004e051da0a6945709ccf17",
+        "size": 5731070
+    },
+    {
+        "file": "texdb/cutscene/cutscene.dxt.tmb",
+        "hash": "a02e47b792da67977141eb480f3521cae6b9a0db897b48de77e627e995a6b6ac",
+        "size": 19440
+    },
+    {
+        "file": "texdb/cutscene/cutscene.dxt.toc",
+        "hash": "0956261f295b8140b86635da6c7dece3e70fa85fdf3fdbf903aace07e6beaef6",
+        "size": 1628
+    },
+    {
+        "file": "texdb/cutscene/cutscene.txt",
+        "hash": "48e9f39481b3cf6214883918901e98d6f1d4984a79ec5e35f8067c6b3414f27d",
+        "size": 24626
+    },
+    {
+        "file": "texdb/gta3/gta3.dxt.dat",
+        "hash": "5c56251ca4a893a701fdbcff069f6a48f4345c6dd9ddccf1723c2a93f80304d2",
+        "size": 246642612
+    },
+    {
+        "file": "texdb/gta3/gta3.dxt.tmb",
+        "hash": "d41b3f5084c8a9f625761847c0d709d6f497ed8b01289c4827e304e93d6bedef",
+        "size": 392480
+    },
+    {
+        "file": "texdb/gta3/gta3.dxt.toc",
+        "hash": "7391e6942319419258d004bbd6994ca046ff4b25659e900c56e23a4542fb2a4c",
+        "size": 14676
+    },
+    {
+        "file": "texdb/gta3/gta3.txt",
+        "hash": "0e1a75efd14941464f19e2ff8ade65e30f1de4debd6243ef70ecedcfc834073a",
+        "size": 218331
+    },
+    {
+        "file": "texdb/gta_int/gta_int.dxt.dat",
+        "hash": "5e010b0bf4b00bdaee627fccbb85fac0cde840b9b6135a89e1309d1dbeb3def2",
+        "size": 557554546
+    },
+    {
+        "file": "texdb/gta_int/gta_int.dxt.tmb",
+        "hash": "f4cc41bcdbeeb477a894fcde0b50c07cb7f2e2b9411a72c1f8067ab736dea519",
+        "size": 676730
+    },
+    {
+        "file": "texdb/gta_int/gta_int.dxt.toc",
+        "hash": "6839aaeafac5950b8e0ebec034e1ec6cb9cb3f15568c2aacb174cd20a9c9850e",
+        "size": 53336
+    },
+    {
+        "file": "texdb/gta_int/gta_int.txt",
+        "hash": "b03abc19df5569b6206adb2621816a9ab97fdd6c43a2b077e73b46248ef2ce7a",
+        "size": 695966
+    },
+    {
+        "file": "texdb/gui/gui.dxt.dat",
+        "hash": "2e499157a109abdf8e9a0e9abdceb4d0203187571efa5f08f7a0f4e6390f04b1",
+        "size": 26178482
+    },
+    {
+        "file": "texdb/gui/gui.dxt.tmb",
+        "hash": "4fa7a082c56b97c5e138c3483c1d9f8a7f3d634277c8233df67493b4def7c3a9",
+        "size": 38904
+    },
+    {
+        "file": "texdb/gui/gui.dxt.toc",
+        "hash": "86fc19ec07399d22834f42d93d0b7fcb9556e4c9aab9fe98f34502803f43b1e1",
+        "size": 500
+    },
+    {
+        "file": "texdb/gui/gui.txt",
+        "hash": "8adf1a7afaa16bf2b1b1e9807166060bf8c77232bcee7d2d73d592ac2292f375",
+        "size": 8473
+    },
+    {
+        "file": "texdb/menu/menu.dxt.dat",
+        "hash": "a85b33f999c8a1610b9b74cf5c2482be9b3ad0a0a672e80c9083ecab60bd6b2e",
+        "size": 5187414
+    },
+    {
+        "file": "texdb/menu/menu.dxt.tmb",
+        "hash": "96599055d1d930276628d6d1bc9822e2b2cc1db0970fa7e36d2fcd9c97f18192",
+        "size": 992
+    },
+    {
+        "file": "texdb/menu/menu.dxt.toc",
+        "hash": "8f733f7692f08e3340638c67458e77f0eb6e0d4a3d3494305930c7c179e78f58",
+        "size": 176
+    },
+    {
+        "file": "texdb/menu/menu.txt",
+        "hash": "f904d36986aeab21df31f9f9ee88373b67d608446e0492db061008aa8192a59f",
+        "size": 3147
+    },
+    {
+        "file": "texdb/mobile/mobile.dxt.dat",
+        "hash": "62bc15d59572537bd960a62818346bbfb1c81e93d12ff388d3aec7fd7704819a",
+        "size": 12585204
+    },
+    {
+        "file": "texdb/mobile/mobile.dxt.tmb",
+        "hash": "e6421e532afdf47f344c760a5211144811401fda15d6e267df0de395cf1f9f56",
+        "size": 9988
+    },
+    {
+        "file": "texdb/mobile/mobile.dxt.toc",
+        "hash": "8cc0e6d3b35ab0f1146c0e960ad8309c85f8075b15670504127c60f5fe6c7071",
+        "size": 24252
+    },
+    {
+        "file": "texdb/mobile/mobile.txt",
+        "hash": "9da7f63c36b0c888492151a6ef453231fc9968d9690268d05e05279218d63b43",
+        "size": 14432
+    },
+    {
+        "file": "texdb/player/player.dxt.dat",
+        "hash": "0ef2166249ad92f3329d2818b83bb091a083614a86dfc7b51cfe786f4db521ca",
+        "size": 6569414
+    },
+    {
+        "file": "texdb/player/player.dxt.tmb",
+        "hash": "c5a2a096fd89c2117bbd78b23950893194d24a747228e57508249d32ee5a8a05",
+        "size": 6940
+    },
+    {
+        "file": "texdb/player/player.dxt.toc",
+        "hash": "0806e857b570f655a57507e90a862afd7f850536128d11d2a94204306ca41192",
+        "size": 1580
+    },
+    {
+        "file": "texdb/player/player.txt",
+        "hash": "a2f4d3c7803614505c7c5d964afeda5f5e0dc180e4d62fb87a332e1238dee9af",
+        "size": 27810
+    },
+    {
+        "file": "texdb/samp/samp.dxt.dat",
+        "hash": "0f6715d50cfaf040ca1e5cfa0dbe87af675e515d2042906c8a4727aab94ca3fe",
+        "size": 43536946
+    },
+    {
+        "file": "texdb/samp/samp.dxt.tmb",
+        "hash": "4945fd31ab76051d168425a65aea285fde9ca9146cb85dd44d56183c842f8cd8",
+        "size": 20884
+    },
+    {
+        "file": "texdb/samp/samp.dxt.toc",
+        "hash": "23f10e193bdf8fd570a54fadc228f8c9b60021de42651aa76c0a9d4a1cb72730",
+        "size": 3912
+    },
+    {
+        "file": "texdb/samp/samp.txt",
+        "hash": "6c34cd364545e159d12cf3fcd33ccf219336de892eeaf61859fb6a51072f0713",
+        "size": 58611
+    },
+    {
+        "file": "texdb/txd/txd.dxt.dat",
+        "hash": "5e675c66dcf7b0f4f820466e0efcdb027c9bab69c74092d8960f1c54cb60131b",
+        "size": 86419054
+    },
+    {
+        "file": "texdb/txd/txd.dxt.tmb",
+        "hash": "27916d7645d26a87b5f7ce6b978ab50c0b4dd7193dad260510532e01d5cf62d7",
+        "size": 87088
+    },
+    {
+        "file": "texdb/txd/txd.dxt.toc",
+        "hash": "9ec1aee1578c2257cb1b46d9bad7f6eaf30d18827e15432c0164fcb6d0d1bcc0",
+        "size": 3756
+    },
+    {
+        "file": "texdb/txd/txd.txt",
+        "hash": "b1405257cae3c6ccc8003df915fe4b8806f63e7d4ce476416ab231065717f378",
+        "size": 62912
+    },
+    {
+        "file": "Text/american.gxt",
+        "hash": "5a1fa485ba052ef35308b2a6dbaf0ef8da7df91adb1b50aa38351c682d563e5d",
+        "size": 1339424
+    },
+    {
+        "file": "Text/french.gxt",
+        "hash": "7d4279145f629f8a58c6631ff2d6312b4b23e1e06fdd07429ef3007bed6f3b39",
+        "size": 1459044
+    },
+    {
+        "file": "Text/german.gxt",
+        "hash": "4f2f5f54626f118c2aed9f320ef2c7f46cb3714447dd7a9085ef636bbee33baf",
+        "size": 1497182
+    },
+    {
+        "file": "Text/italian.gxt",
+        "hash": "0822d1f3e702929678c1e092281df8a63bd1d2184f66e60ea78a4d76aca0de75",
+        "size": 1371048
+    },
+    {
+        "file": "Text/japanese.gxt",
+        "hash": "181667fb4f9829caf06aaa8b44d535bb0dc8744c8794fc943ad26c310eb587d8",
+        "size": 643202
+    },
+    {
+        "file": "Text/russian.gxt",
+        "hash": "6842f18393a2276daa059ce98a5df0e656396fb313304a5f7e9a52ea11542163",
+        "size": 1421038
+    },
+    {
+        "file": "Text/spanish.gxt",
+        "hash": "dba20c1128d5928acd6f7fab75c4849f2fe8fec5a0101f45da51781fd189a7a2",
+        "size": 1386744
+    },
+    {
+        "file": "Textures/fonts/JapaneseFont.met",
+        "hash": "0d0f2923fa26d2f3f0a695373d8408ebfbfb0155208186d8d71b48efa1a52019",
+        "size": 45171
+    },
+    {
+        "file": "Textures/fonts/JapaneseFont.png",
+        "hash": "9a6cf276f00061189d816b7654b32bc6fdbebe026e06e29d25af6ee32f2393f6",
+        "size": 187721
+    },
+    {
+        "file": "Textures/fonts/RussianFont.met",
+        "hash": "011071b9f188691f54505557dcdb063a18b91f2f4c06fb1149e2f451c452f206",
+        "size": 4279
+    },
+    {
+        "file": "Textures/fonts/RussianFont.png",
+        "hash": "125f18a883f4861787346ea02a4d84cefc4821f85962bfe7619ea90018649f8e",
+        "size": 38743
+    }
+]
