@@ -17,3 +17,5 @@
 Установите необходимую библиотеку:
 ```bash
 pip install rich
+
+https://screen.png/
